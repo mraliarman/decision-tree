@@ -1,0 +1,1001 @@
+,region,tenure,age,income,marital,address,ed,employ,retire,gender,reside,custcat
+0,New York,,44.0,64.0,Married,9.0,PHD,5.0,Not Retired,Male,2.0,A
+1,Florida,11.0,33.0,,Married,7.0,Post Doctoral,5.0,Not Retired,Male,6.0,D
+2,,68.0,52.0,116.0,,24.0,Diploma,29.0,Not Retired,Female,2.0,C
+3,New York,33.0,33.0,33.0,Single,12.0,Under Graduate,,Not Retired,Female,1.0,A
+4,New York,23.0,30.0,30.0,Married,9.0,Diploma,2.0,Not Retired,Male,4.0,C
+5,,41.0,39.0,78.0,Single,17.0,Under Graduate,16.0,Not Retired,Female,1.0,C
+6,Florida,45.0,22.0,19.0,Married,2.0,Under Graduate,4.0,Not Retired,,5.0,B
+7,New York,38.0,35.0,76.0,Single,5.0,Under Graduate,10.0,Not Retired,Male,3.0,D
+8,Florida,45.0,59.0,166.0,Married,7.0,PHD,31.0,Not Retired,Male,5.0,C
+9,California,,41.0,72.0,Married,21.0,Diploma,22.0,Not Retired,Male,3.0,B
+10,New York,5.0,33.0,125.0,Single,10.0,PHD,5.0,Not Retired,Female,1.0,A
+11,Florida,7.0,35.0,80.0,Single,14.0,,15.0,Not Retired,Female,1.0,C
+12,California,41.0,38.0,37.0,,8.0,Under Graduate,9.0,Not Retired,Female,3.0,A
+13,New York,57.0,54.0,115.0,Married,30.0,PHD,23.0,Not Retired,Female,3.0,D
+14,New York,9.0,,25.0,Single,3.0,Diploma,8.0,Not Retired,Female,2.0,A
+15,,29.0,38.0,75.0,Married,12.0,Post Doctoral,1.0,Not Retired,Male,,B
+16,Florida,60.0,57.0,162.0,Single,38.0,Under Graduate,30.0,Not Retired,,1.0,C
+17,Florida,34.0,48.0,49.0,Single,3.0,Under Graduate,6.0,Not Retired,Female,3.0,C
+18,New York,1.0,24.0,20.0,Single,3.0,Diploma,3.0,Not Retired,Male,1.0,A
+19,California,26.0,,77.0,Married,3.0,PHD,2.0,Not Retired,Male,4.0,D
+20,Florida,,30.0,16.0,Single,7.0,Graduate,1.0,Not Retired,Female,1.0,B
+21,California,68.0,52.0,,Married,17.0,Diploma,24.0,Not Retired,Male,,A
+22,Florida,53.0,33.0,101.0,Single,10.0,Post Doctoral,4.0,Not Retired,Female,2.0,D
+23,Florida,55.0,48.0,67.0,Married,19.0,Diploma,,Not Retired,Male,3.0,A
+24,Florida,14.0,43.0,36.0,Married,,Diploma,5.0,Not Retired,Male,5.0,C
+25,New York,1.0,21.0,33.0,Single,0.0,Under Graduate,0.0,Not Retired,,3.0,C
+26,New York,,40.0,,Single,7.0,Under Graduate,8.0,Not Retired,,1.0,D
+27,Florida,25.0,33.0,31.0,Married,11.0,Diploma,5.0,Not Retired,Male,,C
+28,,9.0,21.0,17.0,Married,1.0,Under Graduate,2.0,Not Retired,Female,3.0,A
+29,New York,13.0,33.0,19.0,Married,9.0,PHD,0.0,Not Retired,Female,,B
+30,California,,37.0,36.0,,6.0,Diploma,,Not Retired,,2.0,B
+31,California,71.0,53.0,155.0,Married,27.0,Post Doctoral,12.0,Not Retired,,2.0,D
+32,California,35.0,50.0,140.0,Married,26.0,Under Graduate,21.0,Not Retired,Female,4.0,C
+33,California,11.0,27.0,55.0,Married,8.0,Post Doctoral,0.0,Not Retired,Male,3.0,B
+34,,,46.0,,Married,13.0,Graduate,24.0,Not Retired,Male,,D
+35,,20.0,35.0,52.0,Married,11.0,PHD,0.0,Not Retired,Male,,B
+36,New York,54.0,60.0,211.0,Single,,PHD,25.0,,Male,1.0,D
+37,California,44.0,57.0,186.0,Married,1.0,Under Graduate,17.0,,Male,,C
+38,California,11.0,41.0,39.0,Married,0.0,Diploma,1.0,Not Retired,,2.0,C
+39,New York,72.0,57.0,22.0,Single,34.0,Under Graduate,35.0,Retired,Female,1.0,C
+40,Florida,10.0,41.0,30.0,Single,7.0,Diploma,7.0,Not Retired,Male,1.0,C
+41,,15.0,28.0,29.0,Single,0.0,Under Graduate,4.0,Not Retired,Female,1.0,C
+42,New York,,28.0,23.0,Married,4.0,,8.0,Not Retired,Male,5.0,A
+43,California,9.0,36.0,,,14.0,PHD,10.0,Not Retired,Male,6.0,D
+44,California,64.0,43.0,76.0,Married,20.0,PHD,20.0,Not Retired,Female,4.0,C
+45,California,65.0,41.0,74.0,Married,3.0,PHD,16.0,Not Retired,Male,2.0,B
+46,,49.0,51.0,63.0,Married,,PHD,19.0,Not Retired,Male,5.0,B
+47,Florida,,41.0,36.0,Married,0.0,PHD,8.0,Not Retired,Male,2.0,D
+48,Florida,9.0,34.0,33.0,,9.0,Under Graduate,8.0,Not Retired,Female,,A
+49,California,,36.0,29.0,Single,14.0,Under Graduate,9.0,Not Retired,Female,1.0,C
+50,New York,30.0,34.0,27.0,Married,,Under Graduate,1.0,,Male,5.0,A
+51,California,56.0,52.0,,Married,28.0,Under Graduate,,Not Retired,Male,4.0,B
+52,Florida,10.0,22.0,24.0,Single,0.0,PHD,0.0,Not Retired,Male,1.0,D
+53,California,7.0,26.0,26.0,Married,3.0,Under Graduate,2.0,Not Retired,Male,5.0,A
+54,California,52.0,27.0,47.0,Single,6.0,Graduate,5.0,Not Retired,Male,,A
+55,New York,36.0,45.0,94.0,Married,1.0,Under Graduate,18.0,Not Retired,Female,5.0,A
+56,Florida,27.0,34.0,21.0,Single,,Graduate,4.0,Not Retired,Female,1.0,B
+57,California,58.0,62.0,27.0,Married,,Diploma,0.0,Not Retired,Male,2.0,A
+58,New York,41.0,52.0,30.0,Single,27.0,,,Not Retired,Female,1.0,C
+59,New York,47.0,40.0,127.0,Married,16.0,PHD,12.0,Not Retired,Female,4.0,B
+60,New York,55.0,39.0,137.0,Married,15.0,Under Graduate,20.0,Not Retired,Female,2.0,C
+61,,56.0,50.0,80.0,Married,1.0,Under Graduate,24.0,Not Retired,Female,4.0,D
+62,Florida,35.0,55.0,30.0,Single,24.0,Under Graduate,2.0,Not Retired,Male,1.0,A
+63,New York,69.0,51.0,438.0,Married,11.0,,23.0,Not Retired,Female,2.0,D
+64,New York,44.0,39.0,79.0,Single,16.0,Under Graduate,16.0,Not Retired,Male,1.0,D
+65,Florida,36.0,47.0,63.0,Married,16.0,Diploma,23.0,Not Retired,Male,2.0,A
+66,Florida,28.0,51.0,40.0,Married,22.0,Graduate,10.0,Not Retired,Female,6.0,C
+67,California,72.0,67.0,,Married,44.0,Diploma,34.0,Retired,Male,2.0,C
+68,California,16.0,27.0,37.0,Single,5.0,Graduate,5.0,Not Retired,Male,4.0,A
+69,Florida,3.0,,61.0,Single,19.0,PHD,11.0,Not Retired,Female,,A
+70,California,40.0,,22.0,Married,15.0,Under Graduate,9.0,Not Retired,,,A
+71,Florida,16.0,,44.0,Single,6.0,,3.0,Not Retired,Female,1.0,B
+72,California,20.0,42.0,17.0,,4.0,Graduate,5.0,Not Retired,,1.0,A
+73,New York,,43.0,110.0,Single,13.0,Post Doctoral,15.0,Not Retired,Female,3.0,B
+74,New York,64.0,48.0,91.0,Married,13.0,Under Graduate,24.0,Not Retired,Male,2.0,C
+75,California,8.0,46.0,46.0,Single,3.0,Under Graduate,8.0,Not Retired,Male,1.0,A
+76,California,40.0,38.0,85.0,Married,10.0,Graduate,12.0,Not Retired,Male,2.0,C
+77,New York,38.0,,,Single,27.0,,12.0,Retired,Male,1.0,A
+78,California,67.0,68.0,244.0,Single,28.0,Diploma,47.0,Not Retired,Female,1.0,C
+79,,26.0,42.0,80.0,Single,0.0,PHD,15.0,Not Retired,Female,1.0,D
+80,Florida,41.0,34.0,,Married,15.0,Post Doctoral,1.0,Not Retired,Female,2.0,D
+81,New York,2.0,31.0,21.0,Single,2.0,Diploma,6.0,Not Retired,Male,1.0,A
+82,Florida,20.0,48.0,,Married,29.0,,,Not Retired,Male,2.0,D
+83,New York,31.0,53.0,351.0,Single,2.0,Graduate,31.0,Not Retired,Female,1.0,C
+84,New York,45.0,52.0,169.0,Married,4.0,PHD,29.0,Not Retired,Female,4.0,B
+85,New York,33.0,,46.0,Married,7.0,Under Graduate,7.0,Not Retired,Male,4.0,A
+86,California,10.0,,34.0,Single,6.0,Graduate,3.0,,Male,1.0,B
+87,New York,62.0,54.0,50.0,Married,2.0,,3.0,Not Retired,Male,2.0,D
+88,New York,4.0,35.0,161.0,Single,16.0,,6.0,Not Retired,Female,1.0,D
+89,,42.0,47.0,212.0,Married,17.0,PHD,17.0,Not Retired,Male,,C
+90,Florida,27.0,51.0,80.0,,,Post Doctoral,11.0,,Male,3.0,B
+91,New York,38.0,42.0,30.0,Single,1.0,PHD,7.0,Not Retired,,,A
+92,Florida,52.0,61.0,53.0,Married,,,1.0,Not Retired,Female,2.0,B
+93,Florida,35.0,33.0,73.0,Single,9.0,Post Doctoral,4.0,Not Retired,Female,1.0,D
+94,Florida,3.0,20.0,17.0,Married,,Under Graduate,0.0,Not Retired,Female,4.0,A
+95,New York,17.0,33.0,23.0,Single,9.0,Post Doctoral,3.0,Not Retired,,1.0,D
+96,California,55.0,53.0,34.0,Married,21.0,Diploma,8.0,Not Retired,Male,2.0,C
+97,Florida,43.0,36.0,107.0,Married,5.0,Diploma,19.0,Not Retired,Female,3.0,B
+98,New York,47.0,,21.0,Married,5.0,Diploma,1.0,Not Retired,Female,2.0,C
+99,Florida,65.0,58.0,83.0,Single,30.0,Under Graduate,16.0,Not Retired,Female,1.0,B
+100,California,13.0,,17.0,Single,1.0,Graduate,0.0,Not Retired,Male,5.0,D
+101,Florida,64.0,25.0,76.0,Married,4.0,Graduate,2.0,Not Retired,Female,6.0,C
+102,New York,12.0,24.0,19.0,Single,2.0,Diploma,0.0,Not Retired,,1.0,C
+103,California,29.0,32.0,49.0,Married,0.0,PHD,3.0,Not Retired,Female,3.0,B
+104,New York,23.0,47.0,173.0,Single,21.0,Graduate,22.0,Not Retired,Female,1.0,B
+105,New York,14.0,35.0,47.0,Single,,Graduate,10.0,,Female,1.0,B
+106,California,35.0,61.0,41.0,,23.0,Under Graduate,11.0,Not Retired,Male,1.0,A
+107,Florida,26.0,39.0,,Single,8.0,,,Not Retired,Female,1.0,D
+108,California,13.0,54.0,31.0,Single,,PHD,2.0,Not Retired,,1.0,A
+109,New York,69.0,40.0,41.0,,13.0,Under Graduate,,Not Retired,Male,3.0,B
+110,,61.0,50.0,102.0,Married,30.0,,9.0,Not Retired,Female,3.0,B
+111,New York,,22.0,36.0,Married,2.0,PHD,0.0,Not Retired,Female,5.0,B
+112,New York,3.0,37.0,24.0,Single,13.0,Diploma,3.0,Not Retired,Female,1.0,A
+113,New York,53.0,22.0,25.0,Single,1.0,PHD,0.0,Not Retired,Male,,B
+114,,59.0,42.0,68.0,Single,1.0,Under Graduate,21.0,Not Retired,Female,1.0,C
+115,,13.0,34.0,20.0,Single,11.0,Graduate,0.0,Not Retired,Female,1.0,A
+116,Florida,31.0,31.0,48.0,Single,4.0,Diploma,15.0,,Male,1.0,C
+117,California,40.0,29.0,40.0,Married,6.0,Under Graduate,8.0,Not Retired,Female,5.0,C
+118,California,48.0,55.0,79.0,Single,15.0,Diploma,25.0,Not Retired,Male,1.0,C
+119,Florida,3.0,31.0,28.0,Single,1.0,Diploma,0.0,Not Retired,Male,1.0,A
+120,New York,51.0,48.0,64.0,Single,12.0,Under Graduate,22.0,Not Retired,Female,1.0,A
+121,Florida,33.0,41.0,37.0,Single,,Under Graduate,11.0,Not Retired,Male,,A
+122,Florida,14.0,47.0,48.0,Married,7.0,Diploma,13.0,Not Retired,Male,2.0,A
+123,California,17.0,42.0,131.0,Married,6.0,Post Doctoral,6.0,Not Retired,Male,3.0,B
+124,Florida,19.0,29.0,18.0,Married,,Under Graduate,2.0,Not Retired,Male,3.0,A
+125,New York,58.0,36.0,38.0,Single,10.0,Under Graduate,14.0,Not Retired,Female,1.0,B
+126,Florida,22.0,23.0,37.0,Single,3.0,Under Graduate,4.0,Not Retired,Female,3.0,D
+127,New York,29.0,31.0,60.0,Married,1.0,PHD,6.0,Not Retired,Male,5.0,B
+128,Florida,,22.0,13.0,Married,2.0,Graduate,,Not Retired,Female,4.0,B
+129,New York,70.0,64.0,98.0,Married,18.0,Diploma,31.0,Not Retired,Female,2.0,D
+130,California,62.0,52.0,195.0,Married,2.0,Diploma,,Not Retired,Male,2.0,C
+131,New York,7.0,,47.0,Married,0.0,Diploma,14.0,Not Retired,Male,5.0,A
+132,California,56.0,,65.0,Married,19.0,Under Graduate,22.0,Not Retired,Male,3.0,D
+133,California,50.0,50.0,150.0,Married,,Post Doctoral,5.0,Not Retired,Female,4.0,B
+134,New York,57.0,39.0,106.0,Single,6.0,Post Doctoral,8.0,Not Retired,,1.0,C
+135,Florida,2.0,,51.0,Single,19.0,PHD,,Not Retired,Female,1.0,A
+136,New York,40.0,38.0,96.0,Single,17.0,PHD,,Not Retired,Female,1.0,A
+137,New York,,43.0,33.0,Single,4.0,Post Doctoral,7.0,Not Retired,Male,2.0,C
+138,Florida,23.0,25.0,38.0,Married,6.0,Under Graduate,1.0,Not Retired,Female,3.0,C
+139,Florida,,32.0,125.0,Single,6.0,PHD,5.0,Not Retired,Male,1.0,D
+140,California,29.0,37.0,145.0,Married,13.0,Post Doctoral,0.0,Not Retired,Female,4.0,D
+141,California,,44.0,99.0,Married,2.0,Under Graduate,21.0,Not Retired,Male,3.0,C
+142,California,20.0,34.0,22.0,Married,2.0,PHD,0.0,Not Retired,Female,3.0,D
+143,New York,72.0,60.0,,Married,,,38.0,Retired,Male,2.0,B
+144,California,,36.0,25.0,Single,3.0,Diploma,6.0,Not Retired,Female,1.0,C
+145,Florida,46.0,25.0,57.0,Single,5.0,Post Doctoral,,,Female,2.0,A
+146,New York,39.0,,,Married,21.0,Post Doctoral,20.0,,Male,6.0,D
+147,Florida,24.0,25.0,20.0,Married,1.0,Graduate,,,Female,2.0,B
+148,Florida,,43.0,101.0,Married,4.0,,22.0,Not Retired,Female,5.0,B
+149,California,65.0,37.0,56.0,Single,8.0,Under Graduate,15.0,Not Retired,Male,1.0,B
+150,New York,50.0,27.0,22.0,Married,5.0,,5.0,Not Retired,Female,3.0,A
+151,California,57.0,,108.0,Single,11.0,PHD,9.0,Not Retired,Female,1.0,C
+152,Florida,61.0,48.0,115.0,Single,14.0,PHD,20.0,Not Retired,Female,1.0,D
+153,Florida,34.0,54.0,53.0,,31.0,PHD,22.0,Not Retired,Male,1.0,D
+154,Florida,38.0,53.0,242.0,Single,13.0,PHD,12.0,Not Retired,Male,1.0,D
+155,California,3.0,24.0,20.0,Married,2.0,,3.0,Not Retired,Female,5.0,C
+156,New York,4.0,,123.0,Single,5.0,PHD,11.0,Not Retired,Male,1.0,A
+157,New York,15.0,35.0,34.0,Single,0.0,Diploma,,Not Retired,Male,1.0,A
+158,California,25.0,29.0,31.0,Married,8.0,PHD,3.0,Not Retired,,5.0,B
+159,Florida,,44.0,47.0,Single,25.0,Diploma,12.0,Not Retired,Female,2.0,C
+160,Florida,50.0,37.0,48.0,Married,11.0,Graduate,8.0,Not Retired,Female,2.0,C
+161,New York,,64.0,,Married,22.0,Under Graduate,5.0,Retired,Female,3.0,C
+162,New York,59.0,52.0,78.0,Married,18.0,Diploma,25.0,,Male,2.0,A
+163,Florida,29.0,,34.0,Single,7.0,,7.0,,Female,2.0,C
+164,California,60.0,46.0,,Single,17.0,Post Doctoral,9.0,Not Retired,Female,1.0,B
+165,California,71.0,45.0,86.0,Married,14.0,Under Graduate,25.0,Not Retired,Male,2.0,B
+166,Florida,38.0,27.0,26.0,Married,0.0,PHD,2.0,Not Retired,,4.0,D
+167,Florida,16.0,34.0,51.0,Married,5.0,Under Graduate,8.0,Not Retired,Female,5.0,A
+168,Florida,7.0,31.0,59.0,Single,10.0,Graduate,10.0,,Male,1.0,A
+169,California,59.0,53.0,112.0,,,PHD,16.0,Not Retired,Male,1.0,B
+170,New York,22.0,,57.0,Married,,PHD,28.0,Not Retired,Male,2.0,D
+171,California,18.0,48.0,41.0,,20.0,Diploma,2.0,Not Retired,Female,2.0,A
+172,New York,64.0,46.0,168.0,Married,19.0,Under Graduate,26.0,Not Retired,Female,2.0,D
+173,New York,7.0,33.0,29.0,Single,4.0,PHD,4.0,Not Retired,Female,,A
+174,Florida,65.0,,167.0,Single,13.0,Under Graduate,14.0,,Female,2.0,B
+175,Florida,7.0,24.0,29.0,Single,5.0,,3.0,Not Retired,Male,3.0,A
+176,California,64.0,55.0,,Single,28.0,Diploma,26.0,Not Retired,Female,1.0,C
+177,Florida,42.0,22.0,46.0,Married,0.0,,0.0,,Male,2.0,D
+178,Florida,33.0,26.0,46.0,Single,5.0,,1.0,Not Retired,Female,3.0,D
+179,California,3.0,33.0,51.0,,8.0,PHD,,Not Retired,Female,1.0,A
+180,,69.0,42.0,65.0,Married,11.0,Under Graduate,18.0,Not Retired,Male,2.0,D
+181,New York,9.0,33.0,48.0,Single,1.0,Under Graduate,13.0,Not Retired,Male,,A
+182,Florida,22.0,34.0,46.0,,,Graduate,1.0,Not Retired,Male,,B
+183,,53.0,63.0,43.0,Married,15.0,Under Graduate,18.0,Not Retired,Male,,B
+184,Florida,,53.0,110.0,Single,30.0,Diploma,34.0,Not Retired,Male,,B
+185,Florida,24.0,26.0,32.0,,2.0,Graduate,2.0,Not Retired,Male,3.0,A
+186,Florida,12.0,22.0,18.0,Married,1.0,Graduate,0.0,Not Retired,Female,2.0,A
+187,California,25.0,39.0,26.0,Married,1.0,PHD,0.0,Not Retired,Male,4.0,B
+188,Florida,63.0,28.0,34.0,Married,9.0,,,Not Retired,Female,6.0,C
+189,California,33.0,54.0,57.0,Married,18.0,PHD,4.0,Not Retired,Female,3.0,C
+190,New York,57.0,54.0,21.0,Married,20.0,Under Graduate,0.0,Not Retired,Female,3.0,A
+191,Florida,13.0,33.0,38.0,Single,7.0,Graduate,10.0,Not Retired,Female,1.0,D
+192,California,13.0,21.0,19.0,Single,2.0,Graduate,0.0,Not Retired,Female,1.0,B
+193,California,71.0,39.0,40.0,Single,2.0,Graduate,17.0,Not Retired,Male,1.0,C
+194,Florida,18.0,69.0,58.0,Married,11.0,Graduate,8.0,Not Retired,Male,2.0,D
+195,California,17.0,51.0,95.0,Married,10.0,,,Not Retired,Female,2.0,A
+196,,22.0,43.0,114.0,,4.0,Under Graduate,19.0,Not Retired,Male,1.0,A
+197,New York,65.0,65.0,128.0,Married,,Graduate,24.0,,Male,2.0,C
+198,Florida,7.0,40.0,33.0,Single,9.0,PHD,2.0,Not Retired,Female,1.0,A
+199,Florida,72.0,66.0,,Single,30.0,PHD,,Not Retired,Female,1.0,D
+200,California,35.0,43.0,224.0,Single,12.0,Graduate,17.0,Not Retired,Male,1.0,A
+201,California,24.0,39.0,122.0,Single,2.0,,12.0,Not Retired,Male,3.0,D
+202,California,64.0,24.0,23.0,Married,0.0,Graduate,1.0,Not Retired,Female,5.0,B
+203,New York,63.0,63.0,191.0,Married,19.0,Graduate,27.0,,Male,2.0,B
+204,California,38.0,31.0,,Married,7.0,PHD,6.0,Not Retired,Male,3.0,D
+205,New York,,37.0,119.0,Married,9.0,Graduate,12.0,Not Retired,Male,3.0,A
+206,California,72.0,69.0,,Married,49.0,,44.0,Retired,Female,2.0,C
+207,California,10.0,27.0,15.0,Married,2.0,Graduate,2.0,Not Retired,Female,2.0,D
+208,Florida,72.0,64.0,674.0,Single,41.0,PHD,,Not Retired,Female,1.0,C
+209,Florida,52.0,23.0,33.0,,4.0,PHD,0.0,Not Retired,Female,2.0,C
+210,Florida,13.0,55.0,250.0,Single,3.0,Under Graduate,35.0,Not Retired,Female,2.0,A
+211,California,3.0,33.0,64.0,Single,6.0,PHD,0.0,Not Retired,Male,2.0,A
+212,Florida,39.0,24.0,26.0,,2.0,Under Graduate,4.0,Not Retired,Male,4.0,A
+213,New York,28.0,,,Single,4.0,Graduate,5.0,Not Retired,Male,2.0,B
+214,New York,46.0,42.0,52.0,Single,,PHD,7.0,Not Retired,Male,3.0,B
+215,New York,62.0,46.0,200.0,Single,27.0,Graduate,9.0,,Female,1.0,A
+216,New York,23.0,33.0,28.0,Married,7.0,Diploma,4.0,Not Retired,Male,2.0,C
+217,Florida,23.0,25.0,19.0,Married,5.0,,0.0,Not Retired,Male,3.0,D
+218,New York,72.0,61.0,76.0,Married,39.0,Graduate,21.0,Not Retired,Male,2.0,D
+219,Florida,56.0,60.0,70.0,Single,26.0,Under Graduate,20.0,Not Retired,Male,1.0,A
+220,California,8.0,30.0,34.0,Single,1.0,Under Graduate,9.0,Not Retired,Female,1.0,C
+221,Florida,3.0,36.0,34.0,Single,7.0,Post Doctoral,3.0,,Female,3.0,D
+222,Florida,37.0,37.0,172.0,Single,7.0,Graduate,13.0,Not Retired,Male,1.0,A
+223,Florida,37.0,53.0,48.0,Married,,Diploma,10.0,Not Retired,Male,,C
+224,New York,6.0,30.0,45.0,Single,,Under Graduate,2.0,Not Retired,,1.0,A
+225,California,48.0,47.0,72.0,Single,9.0,Graduate,13.0,Not Retired,,5.0,D
+226,New York,43.0,43.0,55.0,Married,3.0,PHD,18.0,Not Retired,Female,4.0,D
+227,New York,21.0,29.0,,,7.0,PHD,2.0,Not Retired,Female,4.0,A
+228,Florida,,33.0,,Single,12.0,Graduate,0.0,Not Retired,Male,,C
+229,New York,69.0,51.0,96.0,Single,18.0,Diploma,33.0,Not Retired,Male,4.0,C
+230,,22.0,33.0,54.0,Single,9.0,Diploma,10.0,,Male,1.0,C
+231,California,28.0,40.0,47.0,Married,1.0,Under Graduate,,Not Retired,Female,3.0,C
+232,California,,47.0,142.0,Married,23.0,Diploma,30.0,Not Retired,Male,2.0,B
+233,New York,7.0,37.0,57.0,Single,5.0,PHD,1.0,Not Retired,Male,1.0,A
+234,California,63.0,29.0,20.0,,,Graduate,7.0,Not Retired,Male,2.0,D
+235,New York,,57.0,,Single,25.0,Diploma,7.0,Not Retired,Male,1.0,B
+236,New York,50.0,52.0,36.0,Married,17.0,PHD,16.0,Not Retired,Male,4.0,D
+237,New York,39.0,31.0,24.0,Married,6.0,PHD,2.0,Not Retired,Male,2.0,D
+238,Florida,16.0,19.0,21.0,Single,0.0,Under Graduate,0.0,Not Retired,Female,1.0,A
+239,Florida,43.0,51.0,186.0,Married,15.0,Graduate,25.0,,Male,2.0,D
+240,Florida,44.0,31.0,30.0,Single,12.0,,7.0,Not Retired,Female,3.0,A
+241,New York,72.0,66.0,96.0,Married,43.0,Under Graduate,16.0,Not Retired,Female,2.0,D
+242,Florida,61.0,76.0,15.0,Single,39.0,Diploma,29.0,Retired,Male,1.0,C
+243,Florida,43.0,21.0,25.0,Married,1.0,Diploma,4.0,,Male,4.0,B
+244,Florida,24.0,39.0,49.0,Single,11.0,Graduate,7.0,Not Retired,Female,1.0,A
+245,Florida,64.0,45.0,38.0,Single,4.0,,7.0,Not Retired,Female,1.0,C
+246,New York,64.0,,29.0,Single,0.0,,2.0,Not Retired,Male,2.0,B
+247,California,24.0,26.0,55.0,Single,7.0,Under Graduate,7.0,Not Retired,Female,1.0,A
+248,Florida,33.0,55.0,64.0,Married,21.0,Graduate,10.0,Not Retired,Female,3.0,A
+249,New York,,33.0,42.0,Married,12.0,PHD,7.0,Not Retired,Female,,B
+250,California,2.0,40.0,134.0,Single,9.0,PHD,,Not Retired,Male,1.0,A
+251,New York,42.0,48.0,82.0,Married,22.0,Diploma,21.0,Not Retired,Female,5.0,D
+252,California,52.0,,153.0,,5.0,Post Doctoral,,Not Retired,Male,2.0,B
+253,California,45.0,66.0,144.0,Single,43.0,,13.0,,Female,1.0,B
+254,Florida,,25.0,22.0,Single,4.0,PHD,0.0,Not Retired,,2.0,D
+255,New York,37.0,53.0,35.0,Married,16.0,Diploma,16.0,Not Retired,,4.0,C
+256,New York,28.0,57.0,82.0,,33.0,PHD,22.0,Not Retired,Female,1.0,B
+257,,40.0,63.0,61.0,Married,,Diploma,22.0,Not Retired,Male,2.0,A
+258,New York,37.0,33.0,102.0,Single,1.0,Under Graduate,12.0,,Male,1.0,D
+259,Florida,7.0,27.0,31.0,Single,5.0,Graduate,4.0,Not Retired,Male,5.0,D
+260,California,71.0,56.0,,Single,23.0,Diploma,,Not Retired,,1.0,D
+261,New York,19.0,,26.0,Single,11.0,Under Graduate,0.0,Not Retired,Female,1.0,A
+262,New York,61.0,40.0,,Single,15.0,Graduate,15.0,Not Retired,Female,1.0,C
+263,,70.0,53.0,183.0,Married,16.0,Under Graduate,35.0,Not Retired,Female,2.0,B
+264,New York,60.0,55.0,67.0,Married,13.0,Diploma,18.0,Not Retired,Female,2.0,A
+265,,48.0,45.0,42.0,Married,5.0,Diploma,11.0,Not Retired,Female,2.0,A
+266,California,,63.0,31.0,Married,1.0,Diploma,9.0,Not Retired,Male,2.0,C
+267,New York,,,96.0,Married,10.0,Under Graduate,17.0,Not Retired,Male,4.0,C
+268,California,16.0,24.0,24.0,Married,5.0,Graduate,,Not Retired,Male,5.0,C
+269,New York,33.0,33.0,53.0,Single,4.0,Under Graduate,14.0,Not Retired,,1.0,A
+270,New York,,,18.0,Single,4.0,Diploma,0.0,Not Retired,Female,1.0,C
+271,California,62.0,51.0,43.0,Single,10.0,PHD,19.0,Not Retired,Male,2.0,B
+272,California,50.0,34.0,104.0,Single,,Graduate,9.0,Not Retired,Male,1.0,D
+273,New York,48.0,55.0,26.0,Single,31.0,Diploma,1.0,Not Retired,,1.0,A
+274,Florida,31.0,62.0,56.0,Single,5.0,Under Graduate,26.0,,Female,1.0,C
+275,New York,65.0,33.0,49.0,Married,9.0,Under Graduate,6.0,Not Retired,Male,5.0,B
+276,California,36.0,58.0,80.0,Single,34.0,Diploma,21.0,Not Retired,Female,1.0,B
+277,California,61.0,46.0,318.0,Single,5.0,Graduate,18.0,Not Retired,Female,1.0,C
+278,New York,48.0,42.0,35.0,Single,21.0,PHD,5.0,Not Retired,Male,1.0,C
+279,Florida,35.0,45.0,29.0,Single,17.0,Diploma,6.0,Not Retired,Male,1.0,A
+280,California,51.0,28.0,,Single,8.0,Post Doctoral,1.0,Not Retired,Male,5.0,D
+281,New York,49.0,51.0,80.0,Married,5.0,Post Doctoral,3.0,Not Retired,,2.0,D
+282,California,35.0,39.0,30.0,Married,11.0,Graduate,2.0,Not Retired,Female,3.0,C
+283,California,58.0,70.0,9.0,Single,,Graduate,24.0,,Female,1.0,B
+284,California,23.0,35.0,23.0,Married,0.0,,1.0,Not Retired,Male,5.0,C
+285,New York,26.0,39.0,58.0,Married,,PHD,9.0,Not Retired,Female,2.0,C
+286,California,38.0,37.0,52.0,Married,1.0,Diploma,20.0,Not Retired,Female,4.0,D
+287,,35.0,66.0,14.0,Married,44.0,Graduate,12.0,Retired,Female,2.0,C
+288,,37.0,50.0,110.0,Single,9.0,Under Graduate,21.0,Not Retired,,1.0,C
+289,New York,48.0,43.0,60.0,Married,1.0,Under Graduate,12.0,,Male,2.0,B
+290,Florida,13.0,43.0,123.0,Married,1.0,Graduate,21.0,Not Retired,Male,5.0,D
+291,California,72.0,63.0,15.0,Married,29.0,Post Doctoral,31.0,Retired,Male,2.0,C
+292,California,30.0,27.0,47.0,,4.0,PHD,2.0,Not Retired,Female,2.0,B
+293,California,24.0,43.0,138.0,Single,14.0,,11.0,Not Retired,Female,1.0,C
+294,New York,25.0,51.0,359.0,Married,20.0,Graduate,,Not Retired,Male,2.0,D
+295,New York,50.0,52.0,214.0,Single,30.0,Graduate,22.0,Not Retired,Male,1.0,D
+296,New York,28.0,40.0,64.0,Single,7.0,Diploma,19.0,Not Retired,Male,1.0,C
+297,Florida,34.0,51.0,50.0,Single,8.0,PHD,14.0,,Male,,A
+298,,48.0,32.0,88.0,Single,2.0,Graduate,,Not Retired,Male,1.0,D
+299,New York,42.0,36.0,86.0,Married,8.0,Under Graduate,15.0,Not Retired,Female,2.0,B
+300,Florida,67.0,65.0,17.0,Married,30.0,Diploma,29.0,Retired,Female,2.0,C
+301,California,17.0,41.0,25.0,Married,7.0,Under Graduate,,Not Retired,,3.0,C
+302,California,29.0,38.0,46.0,,19.0,Under Graduate,6.0,,Male,2.0,B
+303,Florida,66.0,61.0,361.0,Single,26.0,Diploma,40.0,Not Retired,Female,1.0,B
+304,New York,,21.0,18.0,Single,1.0,Graduate,0.0,Not Retired,Female,1.0,A
+305,California,,33.0,14.0,Married,3.0,PHD,1.0,Not Retired,Male,3.0,D
+306,California,15.0,35.0,34.0,,5.0,Graduate,8.0,Not Retired,Male,2.0,B
+307,New York,12.0,64.0,9.0,Single,13.0,Under Graduate,,Retired,Female,1.0,C
+308,Florida,,,39.0,Single,18.0,Under Graduate,5.0,Not Retired,Female,,D
+309,New York,59.0,25.0,18.0,Married,4.0,Graduate,2.0,Not Retired,Male,4.0,A
+310,Florida,8.0,26.0,25.0,Married,1.0,PHD,1.0,Not Retired,Male,2.0,A
+311,California,45.0,52.0,46.0,Single,15.0,Post Doctoral,8.0,Not Retired,Female,1.0,B
+312,California,25.0,39.0,94.0,Married,8.0,PHD,11.0,Not Retired,Female,4.0,B
+313,California,21.0,44.0,26.0,Married,4.0,Graduate,,Not Retired,Male,2.0,D
+314,New York,17.0,68.0,335.0,Married,,Diploma,35.0,Not Retired,Female,3.0,D
+315,New York,41.0,,25.0,Single,14.0,Graduate,6.0,Not Retired,Male,1.0,A
+316,California,13.0,45.0,99.0,Married,3.0,Graduate,8.0,Not Retired,Female,2.0,C
+317,New York,1.0,26.0,,Married,3.0,Under Graduate,7.0,Not Retired,Female,5.0,A
+318,Florida,3.0,31.0,35.0,Married,,Under Graduate,2.0,Not Retired,Female,3.0,D
+319,California,23.0,27.0,51.0,Married,2.0,Post Doctoral,1.0,Not Retired,Female,2.0,A
+320,Florida,26.0,42.0,,Single,20.0,Graduate,13.0,Not Retired,Male,1.0,D
+321,California,37.0,51.0,54.0,Married,15.0,,15.0,Not Retired,Male,3.0,C
+322,Florida,5.0,30.0,,Single,3.0,PHD,7.0,Not Retired,Male,1.0,B
+323,California,32.0,27.0,91.0,Married,,PHD,1.0,Not Retired,Female,3.0,D
+324,Florida,12.0,22.0,23.0,Single,1.0,PHD,0.0,Not Retired,Male,2.0,A
+325,California,,54.0,345.0,Married,6.0,Diploma,32.0,Not Retired,Male,2.0,C
+326,Florida,3.0,25.0,45.0,Married,2.0,PHD,0.0,Not Retired,Female,2.0,A
+327,California,54.0,43.0,53.0,Single,12.0,Under Graduate,12.0,Not Retired,Male,1.0,C
+328,New York,26.0,26.0,14.0,Single,,Under Graduate,6.0,Not Retired,Female,1.0,D
+329,Florida,14.0,36.0,67.0,Single,13.0,Post Doctoral,4.0,Not Retired,Female,1.0,A
+330,Florida,22.0,51.0,49.0,Single,27.0,Graduate,,Not Retired,Male,1.0,A
+331,Florida,65.0,47.0,37.0,Married,18.0,Diploma,15.0,Not Retired,Female,4.0,A
+332,Florida,26.0,45.0,33.0,Single,18.0,Diploma,9.0,Not Retired,Male,1.0,A
+333,California,20.0,37.0,46.0,Single,5.0,Graduate,10.0,Not Retired,Female,4.0,D
+334,New York,67.0,60.0,93.0,Married,,Diploma,21.0,,Male,4.0,B
+335,California,34.0,55.0,48.0,Single,,Under Graduate,11.0,Not Retired,Male,1.0,A
+336,,37.0,54.0,183.0,Married,35.0,Under Graduate,,Not Retired,Male,3.0,C
+337,New York,22.0,23.0,16.0,,3.0,Diploma,5.0,Not Retired,Male,4.0,A
+338,New York,5.0,69.0,11.0,Single,0.0,Under Graduate,14.0,Retired,Male,1.0,A
+339,California,28.0,31.0,42.0,Married,0.0,PHD,5.0,Not Retired,,3.0,C
+340,California,,41.0,67.0,Married,7.0,PHD,,Not Retired,Female,4.0,A
+341,Florida,,41.0,181.0,Single,20.0,PHD,,Not Retired,Male,1.0,D
+342,New York,30.0,43.0,53.0,Single,18.0,PHD,6.0,Not Retired,Male,1.0,A
+343,Florida,71.0,52.0,172.0,Single,17.0,Under Graduate,32.0,Not Retired,Male,1.0,D
+344,New York,56.0,44.0,87.0,Single,24.0,Under Graduate,19.0,Not Retired,Male,1.0,C
+345,California,8.0,29.0,21.0,Married,2.0,,0.0,Not Retired,Male,2.0,A
+346,New York,32.0,65.0,9.0,Single,6.0,Under Graduate,30.0,Retired,Female,1.0,B
+347,New York,46.0,47.0,144.0,Single,22.0,Graduate,22.0,Not Retired,Female,2.0,C
+348,Florida,60.0,45.0,117.0,Married,23.0,PHD,11.0,Not Retired,Male,3.0,D
+349,New York,42.0,32.0,59.0,Married,0.0,PHD,4.0,Not Retired,Female,6.0,D
+350,Florida,71.0,60.0,,Married,39.0,PHD,,,Male,,D
+351,New York,72.0,,222.0,,40.0,Under Graduate,43.0,Retired,Female,2.0,C
+352,,45.0,,87.0,Single,,Graduate,25.0,Retired,Female,1.0,A
+353,Florida,5.0,31.0,34.0,Single,4.0,Diploma,9.0,Not Retired,Male,1.0,C
+354,New York,17.0,38.0,18.0,Married,,PHD,0.0,Not Retired,Female,4.0,B
+355,New York,70.0,55.0,65.0,Single,,,24.0,Not Retired,Male,1.0,C
+356,Florida,57.0,57.0,130.0,,19.0,Graduate,27.0,Not Retired,Female,2.0,B
+357,California,20.0,33.0,44.0,Single,13.0,Graduate,8.0,Not Retired,Female,1.0,B
+358,California,72.0,52.0,63.0,Married,,Diploma,,Not Retired,Male,3.0,C
+359,Florida,32.0,,57.0,Single,28.0,PHD,20.0,,Male,1.0,C
+360,Florida,22.0,57.0,264.0,Married,7.0,Diploma,35.0,Not Retired,Female,2.0,C
+361,New York,6.0,24.0,28.0,Single,2.0,,5.0,Not Retired,Male,2.0,C
+362,Florida,32.0,23.0,26.0,Married,2.0,Graduate,1.0,Not Retired,Female,6.0,D
+363,California,38.0,33.0,,Single,3.0,PHD,0.0,Not Retired,Male,1.0,B
+364,California,,35.0,59.0,Single,15.0,Graduate,,Not Retired,Female,1.0,C
+365,Florida,37.0,76.0,117.0,Single,,,21.0,Not Retired,Female,1.0,A
+366,California,47.0,35.0,70.0,,13.0,PHD,9.0,Not Retired,Female,,D
+367,Florida,69.0,59.0,104.0,Single,37.0,Under Graduate,13.0,,Male,1.0,C
+368,Florida,63.0,56.0,,Single,17.0,Graduate,18.0,Not Retired,Female,1.0,A
+369,California,61.0,34.0,70.0,Married,0.0,Graduate,7.0,Not Retired,Female,3.0,D
+370,California,56.0,38.0,56.0,Married,8.0,PHD,10.0,,Male,2.0,D
+371,,40.0,,68.0,,18.0,Diploma,23.0,Not Retired,Male,2.0,C
+372,New York,61.0,,80.0,Single,21.0,Under Graduate,13.0,Not Retired,Female,1.0,B
+373,New York,16.0,26.0,21.0,Single,7.0,,,Not Retired,Male,6.0,D
+374,New York,7.0,43.0,69.0,Single,4.0,Graduate,5.0,,Female,1.0,A
+375,Florida,20.0,31.0,,Married,10.0,Under Graduate,3.0,Not Retired,Female,2.0,A
+376,,,38.0,90.0,Single,7.0,Under Graduate,,Not Retired,Male,4.0,B
+377,California,60.0,37.0,64.0,Married,12.0,Post Doctoral,1.0,Not Retired,,2.0,B
+378,New York,47.0,25.0,28.0,,2.0,Under Graduate,,,,1.0,D
+379,New York,,28.0,24.0,Married,3.0,Under Graduate,0.0,Not Retired,Female,6.0,A
+380,Florida,12.0,34.0,44.0,Single,2.0,Under Graduate,7.0,Not Retired,Male,1.0,A
+381,California,10.0,31.0,,Single,,PHD,7.0,,,2.0,B
+382,New York,69.0,33.0,52.0,,9.0,PHD,9.0,Not Retired,Female,3.0,C
+383,California,23.0,20.0,15.0,Single,,Graduate,0.0,Not Retired,Female,1.0,B
+384,California,,,46.0,Single,10.0,Graduate,6.0,Not Retired,Male,2.0,B
+385,New York,60.0,57.0,107.0,Married,,,,Not Retired,Female,2.0,C
+386,New York,33.0,33.0,56.0,Single,7.0,Under Graduate,11.0,Not Retired,Male,1.0,A
+387,Florida,67.0,40.0,40.0,Married,21.0,PHD,7.0,Not Retired,Female,4.0,D
+388,Florida,15.0,38.0,56.0,Married,5.0,Graduate,13.0,Not Retired,Male,,C
+389,Florida,64.0,31.0,46.0,Married,5.0,Under Graduate,7.0,Not Retired,Female,4.0,B
+390,New York,46.0,49.0,51.0,Married,13.0,Under Graduate,21.0,Not Retired,Male,2.0,A
+391,,72.0,60.0,12.0,Married,,Diploma,20.0,Retired,Male,3.0,D
+392,California,61.0,43.0,34.0,,6.0,Post Doctoral,6.0,Not Retired,Male,3.0,D
+393,Florida,54.0,27.0,27.0,Single,3.0,Under Graduate,6.0,Not Retired,Female,5.0,D
+394,Florida,,36.0,42.0,Single,3.0,Graduate,7.0,Not Retired,Female,1.0,C
+395,New York,28.0,38.0,,Single,,Post Doctoral,2.0,Not Retired,Male,3.0,D
+396,New York,32.0,43.0,146.0,Single,,Diploma,27.0,Not Retired,Female,1.0,C
+397,New York,52.0,,51.0,Single,17.0,Under Graduate,13.0,Not Retired,Female,3.0,B
+398,California,48.0,62.0,86.0,Single,33.0,Diploma,22.0,Retired,Female,1.0,C
+399,Florida,52.0,42.0,27.0,Married,17.0,Graduate,8.0,Not Retired,Female,2.0,C
+400,California,37.0,43.0,38.0,Single,8.0,Graduate,9.0,Not Retired,Male,1.0,B
+401,California,41.0,52.0,928.0,Single,26.0,Graduate,29.0,Not Retired,Male,,C
+402,New York,43.0,27.0,21.0,Married,3.0,,1.0,Not Retired,Female,,B
+403,Florida,67.0,,,,24.0,,6.0,Not Retired,Female,1.0,C
+404,Florida,61.0,52.0,91.0,Married,30.0,,25.0,Not Retired,Female,2.0,A
+405,Florida,70.0,39.0,38.0,,20.0,Under Graduate,8.0,Not Retired,Female,,C
+406,Florida,44.0,32.0,96.0,Married,1.0,PHD,5.0,Not Retired,Female,4.0,D
+407,Florida,46.0,45.0,96.0,Single,12.0,Graduate,,Not Retired,Male,1.0,B
+408,Florida,39.0,34.0,54.0,Single,2.0,Graduate,5.0,Not Retired,Male,,A
+409,New York,39.0,59.0,1668.0,,20.0,PHD,27.0,Not Retired,Female,1.0,B
+410,New York,,,53.0,,,PHD,0.0,Not Retired,Female,4.0,D
+411,,5.0,31.0,21.0,Single,1.0,Graduate,,Not Retired,Female,,A
+412,New York,10.0,34.0,52.0,Single,1.0,Post Doctoral,3.0,Not Retired,Female,1.0,B
+413,California,72.0,69.0,17.0,Single,45.0,Graduate,,Retired,Female,1.0,B
+414,,68.0,,262.0,Single,40.0,Under Graduate,39.0,Not Retired,Female,1.0,C
+415,Florida,58.0,28.0,34.0,Single,5.0,Post Doctoral,1.0,Not Retired,Female,1.0,B
+416,Florida,,44.0,107.0,Married,10.0,Diploma,,Not Retired,,7.0,A
+417,California,65.0,45.0,67.0,Married,25.0,Post Doctoral,13.0,Not Retired,Female,2.0,C
+418,Florida,8.0,45.0,37.0,Single,1.0,PHD,0.0,Not Retired,Male,1.0,B
+419,New York,1.0,20.0,21.0,Single,1.0,Under Graduate,0.0,Not Retired,Female,2.0,A
+420,Florida,42.0,58.0,22.0,Single,7.0,,4.0,Not Retired,Female,1.0,B
+421,California,4.0,25.0,71.0,Married,3.0,Graduate,3.0,Not Retired,Female,,A
+422,Florida,17.0,35.0,77.0,Single,4.0,Graduate,8.0,Not Retired,Female,1.0,C
+423,New York,8.0,24.0,18.0,Married,1.0,PHD,,Not Retired,Female,5.0,D
+424,California,49.0,37.0,50.0,Married,17.0,Under Graduate,12.0,Not Retired,Female,2.0,B
+425,California,,46.0,33.0,Married,,PHD,7.0,Not Retired,Male,2.0,B
+426,,62.0,57.0,94.0,Married,21.0,Diploma,,Not Retired,,2.0,D
+427,New York,42.0,57.0,209.0,Married,25.0,Diploma,40.0,Not Retired,Female,4.0,A
+428,California,13.0,32.0,31.0,Single,,,5.0,,Male,2.0,C
+429,California,69.0,46.0,66.0,Married,,Under Graduate,19.0,,Male,4.0,B
+430,New York,45.0,59.0,51.0,Single,14.0,Diploma,15.0,Not Retired,Male,2.0,A
+431,New York,66.0,42.0,118.0,Married,18.0,Under Graduate,20.0,Not Retired,Male,2.0,B
+432,New York,15.0,35.0,25.0,Single,,Under Graduate,3.0,Not Retired,Male,,A
+433,California,41.0,44.0,59.0,Married,1.0,Graduate,21.0,Not Retired,Female,3.0,B
+434,New York,11.0,20.0,20.0,Single,1.0,Under Graduate,0.0,Not Retired,Female,1.0,D
+435,Florida,45.0,30.0,63.0,Married,0.0,Post Doctoral,4.0,,Male,4.0,D
+436,California,52.0,62.0,36.0,Single,23.0,PHD,,,,,A
+437,California,42.0,,72.0,Single,24.0,,18.0,Not Retired,Female,,D
+438,New York,48.0,35.0,50.0,Single,11.0,Diploma,16.0,Not Retired,Male,3.0,C
+439,Florida,4.0,,39.0,Single,5.0,Under Graduate,5.0,Not Retired,Male,,D
+440,Florida,53.0,64.0,,Married,10.0,Under Graduate,20.0,Not Retired,Female,2.0,D
+441,,1.0,,9.0,Single,4.0,Diploma,4.0,Retired,Male,1.0,C
+442,Florida,19.0,30.0,33.0,Married,10.0,PHD,1.0,Not Retired,Male,3.0,D
+443,New York,33.0,30.0,28.0,Single,11.0,Diploma,9.0,Not Retired,Male,1.0,A
+444,Florida,42.0,36.0,44.0,Married,14.0,Under Graduate,11.0,,Male,,C
+445,California,60.0,32.0,34.0,Single,12.0,,4.0,Not Retired,Female,2.0,B
+446,New York,57.0,51.0,68.0,Married,7.0,PHD,18.0,Not Retired,Female,3.0,C
+447,California,64.0,39.0,37.0,Single,5.0,Diploma,9.0,Not Retired,Male,1.0,A
+448,New York,28.0,20.0,18.0,Married,1.0,Graduate,0.0,Not Retired,,3.0,D
+449,California,29.0,35.0,55.0,Married,10.0,Under Graduate,7.0,Not Retired,Male,,C
+450,California,46.0,31.0,21.0,Married,12.0,Diploma,5.0,Not Retired,,5.0,C
+451,California,22.0,41.0,29.0,Married,9.0,Graduate,11.0,Not Retired,Male,4.0,A
+452,New York,10.0,56.0,9.0,Single,26.0,Under Graduate,6.0,Retired,Male,2.0,A
+453,Florida,50.0,41.0,138.0,Single,16.0,Under Graduate,18.0,Not Retired,,1.0,B
+454,California,55.0,65.0,28.0,Single,34.0,PHD,12.0,Retired,Female,1.0,D
+455,New York,15.0,54.0,62.0,Single,7.0,Diploma,11.0,Not Retired,Male,1.0,A
+456,,31.0,32.0,37.0,Married,13.0,Graduate,8.0,Not Retired,Female,3.0,D
+457,Florida,5.0,44.0,83.0,Single,5.0,Diploma,16.0,Not Retired,Female,1.0,B
+458,New York,69.0,63.0,168.0,Single,28.0,Diploma,43.0,Not Retired,,2.0,C
+459,,26.0,27.0,33.0,Married,4.0,PHD,1.0,Not Retired,Male,6.0,D
+460,Florida,10.0,33.0,66.0,Married,2.0,Graduate,9.0,Not Retired,Female,4.0,A
+461,California,26.0,,18.0,Single,9.0,PHD,1.0,Not Retired,Male,3.0,D
+462,Florida,,30.0,20.0,,,Diploma,4.0,Not Retired,Female,1.0,C
+463,Florida,30.0,23.0,19.0,Married,4.0,Graduate,1.0,Not Retired,Male,4.0,B
+464,,21.0,39.0,25.0,Married,7.0,Under Graduate,1.0,Not Retired,Male,4.0,C
+465,,71.0,46.0,119.0,Single,27.0,Post Doctoral,7.0,Not Retired,Female,1.0,D
+466,,11.0,48.0,323.0,Married,5.0,PHD,25.0,Not Retired,Male,4.0,C
+467,California,24.0,30.0,45.0,Married,,Diploma,,Not Retired,Female,2.0,A
+468,California,65.0,,197.0,Married,27.0,PHD,26.0,Not Retired,Male,2.0,B
+469,,16.0,34.0,56.0,Married,13.0,Graduate,10.0,Not Retired,Female,3.0,A
+470,Florida,37.0,51.0,24.0,Married,26.0,PHD,4.0,,Male,2.0,B
+471,California,5.0,,25.0,Single,4.0,,6.0,Not Retired,Male,1.0,C
+472,California,3.0,55.0,,Married,9.0,Post Doctoral,0.0,Not Retired,Female,2.0,B
+473,California,5.0,32.0,33.0,Single,6.0,PHD,3.0,Not Retired,Male,2.0,A
+474,California,60.0,44.0,150.0,Married,4.0,Under Graduate,24.0,Not Retired,Male,2.0,D
+475,New York,19.0,37.0,99.0,,4.0,Under Graduate,15.0,Not Retired,Female,3.0,B
+476,Florida,54.0,40.0,50.0,Single,19.0,PHD,12.0,Not Retired,Female,2.0,D
+477,New York,25.0,41.0,,Single,3.0,,20.0,Not Retired,Female,4.0,C
+478,New York,1.0,36.0,21.0,Single,6.0,Diploma,1.0,Not Retired,Male,2.0,B
+479,,54.0,68.0,273.0,Single,7.0,Graduate,27.0,Not Retired,Female,1.0,A
+480,California,,31.0,39.0,,9.0,Graduate,4.0,Not Retired,Female,7.0,A
+481,Florida,14.0,28.0,17.0,Married,7.0,Under Graduate,3.0,Not Retired,Male,4.0,A
+482,New York,,45.0,115.0,Married,8.0,,17.0,Not Retired,Female,4.0,B
+483,California,7.0,23.0,27.0,Single,3.0,Under Graduate,1.0,Not Retired,Female,3.0,A
+484,New York,33.0,45.0,35.0,Single,24.0,Diploma,6.0,Not Retired,Male,1.0,C
+485,California,3.0,23.0,,Single,2.0,Under Graduate,4.0,Not Retired,,1.0,A
+486,New York,56.0,58.0,92.0,Married,3.0,Diploma,25.0,Not Retired,Male,3.0,A
+487,New York,54.0,56.0,207.0,Single,8.0,Under Graduate,35.0,Not Retired,Female,1.0,C
+488,California,72.0,55.0,40.0,Married,28.0,Diploma,,Not Retired,Male,5.0,B
+489,California,18.0,,40.0,Single,4.0,Under Graduate,1.0,Not Retired,Male,1.0,C
+490,Florida,25.0,29.0,55.0,,9.0,PHD,1.0,Not Retired,Male,1.0,A
+491,California,42.0,62.0,26.0,,26.0,Diploma,35.0,Retired,Female,1.0,A
+492,Florida,4.0,,41.0,Single,2.0,Under Graduate,8.0,Not Retired,Male,1.0,A
+493,New York,12.0,50.0,203.0,Married,16.0,PHD,,Not Retired,,2.0,A
+494,,53.0,64.0,380.0,Married,17.0,Under Graduate,36.0,Not Retired,Female,2.0,C
+495,New York,13.0,38.0,104.0,Married,8.0,PHD,6.0,Not Retired,Male,7.0,D
+496,Florida,18.0,31.0,24.0,Married,12.0,Graduate,4.0,,Male,4.0,B
+497,Florida,67.0,42.0,81.0,Married,20.0,Graduate,20.0,Not Retired,Female,5.0,D
+498,New York,6.0,24.0,17.0,Single,2.0,Diploma,1.0,Not Retired,Male,1.0,C
+499,California,25.0,46.0,45.0,,13.0,Diploma,12.0,Not Retired,Female,1.0,C
+500,New York,15.0,39.0,32.0,Single,19.0,Under Graduate,2.0,Not Retired,Male,1.0,B
+501,Florida,32.0,35.0,57.0,Single,12.0,PHD,5.0,Not Retired,Male,1.0,B
+502,New York,22.0,39.0,63.0,Single,,PHD,9.0,Not Retired,Male,1.0,B
+503,New York,8.0,22.0,,,3.0,PHD,0.0,Not Retired,,1.0,C
+504,,3.0,31.0,22.0,Married,4.0,Diploma,1.0,Not Retired,Male,2.0,A
+505,New York,32.0,54.0,155.0,Single,,Under Graduate,20.0,Not Retired,Male,1.0,A
+506,California,49.0,54.0,30.0,Single,24.0,Under Graduate,5.0,Not Retired,Male,1.0,B
+507,New York,2.0,28.0,46.0,Single,7.0,Graduate,0.0,Not Retired,Female,1.0,D
+508,,39.0,47.0,68.0,Single,1.0,PHD,10.0,Not Retired,Female,2.0,B
+509,California,42.0,,67.0,Single,2.0,Under Graduate,5.0,Not Retired,Male,2.0,B
+510,California,,36.0,69.0,Single,,,,Not Retired,Male,1.0,D
+511,New York,41.0,46.0,47.0,Married,14.0,Under Graduate,11.0,Not Retired,Male,5.0,D
+512,,67.0,50.0,83.0,Married,31.0,Under Graduate,12.0,Not Retired,Male,2.0,B
+513,California,38.0,40.0,34.0,Single,15.0,Under Graduate,11.0,Not Retired,,1.0,B
+514,New York,18.0,38.0,45.0,Single,8.0,Under Graduate,2.0,,Female,4.0,D
+515,New York,6.0,42.0,29.0,Married,17.0,Under Graduate,2.0,Not Retired,Female,2.0,D
+516,New York,4.0,36.0,,Single,0.0,Under Graduate,1.0,Not Retired,Female,3.0,A
+517,California,13.0,23.0,30.0,Married,3.0,Graduate,0.0,Not Retired,Female,4.0,D
+518,,20.0,,78.0,Single,0.0,PHD,7.0,Not Retired,Male,1.0,D
+519,California,34.0,49.0,61.0,Married,27.0,Graduate,15.0,Not Retired,Female,2.0,C
+520,California,46.0,29.0,90.0,Married,4.0,Post Doctoral,3.0,Not Retired,Male,4.0,D
+521,California,,41.0,43.0,Single,21.0,Under Graduate,7.0,Not Retired,Male,1.0,B
+522,Florida,,61.0,301.0,Married,12.0,Under Graduate,37.0,Not Retired,Male,2.0,C
+523,California,32.0,34.0,32.0,Married,7.0,Under Graduate,15.0,Not Retired,Male,4.0,A
+524,California,29.0,29.0,41.0,Single,9.0,Under Graduate,9.0,Not Retired,Male,2.0,B
+525,Florida,55.0,52.0,127.0,Single,,Diploma,28.0,Not Retired,Female,3.0,B
+526,Florida,72.0,60.0,271.0,Married,36.0,Diploma,43.0,Not Retired,Female,2.0,C
+527,Florida,29.0,26.0,32.0,Single,1.0,,2.0,Not Retired,Female,1.0,A
+528,,50.0,,36.0,Married,1.0,PHD,2.0,Not Retired,Female,5.0,D
+529,Florida,35.0,50.0,293.0,Married,,,21.0,Not Retired,Male,2.0,A
+530,Florida,11.0,63.0,41.0,Single,9.0,Graduate,3.0,Not Retired,,1.0,A
+531,California,9.0,29.0,,Single,9.0,Graduate,5.0,Not Retired,Female,,A
+532,New York,,48.0,58.0,,27.0,Diploma,18.0,Not Retired,Male,1.0,C
+533,California,33.0,34.0,28.0,Married,2.0,,3.0,Not Retired,Female,3.0,B
+534,California,25.0,20.0,15.0,Single,0.0,Under Graduate,0.0,Not Retired,Male,2.0,C
+535,Florida,31.0,34.0,105.0,,9.0,PHD,7.0,Not Retired,,4.0,C
+536,New York,67.0,40.0,80.0,Married,10.0,PHD,8.0,Not Retired,Female,2.0,D
+537,Florida,55.0,45.0,36.0,Single,8.0,,9.0,Not Retired,Male,3.0,C
+538,Florida,19.0,50.0,112.0,Single,7.0,PHD,3.0,,Female,1.0,D
+539,California,39.0,34.0,55.0,Married,11.0,PHD,,Not Retired,Female,4.0,D
+540,New York,52.0,35.0,40.0,Married,8.0,PHD,1.0,Not Retired,Male,2.0,C
+541,Florida,55.0,37.0,23.0,Married,15.0,Under Graduate,0.0,Not Retired,Female,5.0,C
+542,New York,25.0,62.0,28.0,Single,27.0,PHD,33.0,Retired,Female,1.0,D
+543,,33.0,58.0,21.0,Single,12.0,Under Graduate,,,Female,1.0,A
+544,New York,48.0,35.0,63.0,,5.0,PHD,12.0,Not Retired,Male,2.0,C
+545,New York,48.0,31.0,52.0,Married,12.0,PHD,3.0,Not Retired,Male,3.0,D
+546,New York,49.0,57.0,189.0,Single,3.0,Diploma,31.0,,Female,3.0,A
+547,Florida,54.0,32.0,,,0.0,Diploma,15.0,Not Retired,Male,,C
+548,California,45.0,32.0,23.0,Married,9.0,Diploma,15.0,Not Retired,Male,4.0,A
+549,Florida,,,33.0,Married,,Under Graduate,15.0,Not Retired,Female,5.0,A
+550,Florida,49.0,27.0,29.0,Married,3.0,Graduate,6.0,Not Retired,Female,3.0,B
+551,New York,23.0,,96.0,,2.0,Graduate,4.0,Not Retired,Male,1.0,D
+552,,,44.0,80.0,Single,23.0,,15.0,Not Retired,Male,1.0,B
+553,New York,55.0,44.0,68.0,Married,2.0,Under Graduate,15.0,Not Retired,Male,5.0,C
+554,California,9.0,28.0,30.0,Single,7.0,Diploma,,,,6.0,A
+555,New York,55.0,57.0,34.0,,25.0,Under Graduate,12.0,,Male,3.0,A
+556,California,34.0,,35.0,Single,3.0,Under Graduate,2.0,Not Retired,Female,3.0,C
+557,California,10.0,,36.0,,4.0,Under Graduate,1.0,Not Retired,Male,3.0,C
+558,New York,62.0,76.0,35.0,,20.0,Graduate,18.0,Retired,Female,1.0,B
+559,New York,51.0,36.0,62.0,Single,13.0,,9.0,Not Retired,Male,2.0,D
+560,California,65.0,,94.0,,28.0,Diploma,25.0,Not Retired,Male,1.0,B
+561,Florida,53.0,33.0,60.0,Single,1.0,Diploma,6.0,Not Retired,Male,2.0,D
+562,California,23.0,35.0,118.0,Single,,Under Graduate,11.0,Not Retired,Male,1.0,A
+563,Florida,1.0,30.0,135.0,Single,3.0,PHD,3.0,Not Retired,Male,3.0,A
+564,Florida,,55.0,80.0,Single,20.0,Under Graduate,24.0,Not Retired,Female,1.0,C
+565,Florida,8.0,,,Married,0.0,Graduate,3.0,Not Retired,Female,2.0,B
+566,Florida,18.0,28.0,22.0,Married,3.0,Diploma,,Not Retired,Female,5.0,A
+567,Florida,36.0,32.0,,Married,3.0,PHD,7.0,Not Retired,,4.0,B
+568,California,13.0,40.0,,Single,16.0,,18.0,Not Retired,Female,1.0,A
+569,Florida,,44.0,32.0,Single,15.0,Graduate,0.0,Not Retired,Female,1.0,C
+570,Florida,20.0,32.0,19.0,Single,10.0,Graduate,,Not Retired,,1.0,B
+571,California,66.0,39.0,60.0,Married,12.0,PHD,10.0,Not Retired,Male,3.0,D
+572,Florida,67.0,,,Married,,Diploma,23.0,Not Retired,Male,4.0,C
+573,,11.0,24.0,31.0,Married,0.0,Under Graduate,3.0,Not Retired,Female,4.0,D
+574,California,6.0,26.0,30.0,Single,7.0,Graduate,1.0,Not Retired,Female,,A
+575,,13.0,23.0,31.0,,4.0,Diploma,,Not Retired,Female,4.0,A
+576,New York,2.0,29.0,44.0,Married,3.0,Under Graduate,9.0,Not Retired,Female,6.0,D
+577,California,,40.0,,Single,12.0,Under Graduate,5.0,Not Retired,Male,1.0,A
+578,California,34.0,63.0,23.0,Married,10.0,Under Graduate,0.0,Not Retired,Female,2.0,D
+579,California,13.0,34.0,37.0,Married,6.0,Graduate,6.0,Not Retired,Male,,C
+580,New York,37.0,40.0,26.0,Married,14.0,Under Graduate,0.0,Not Retired,Male,5.0,B
+581,California,45.0,30.0,38.0,Married,8.0,Under Graduate,5.0,Not Retired,Male,6.0,C
+582,New York,,70.0,,Single,30.0,Graduate,34.0,Retired,Female,1.0,C
+583,California,35.0,40.0,49.0,Single,5.0,Diploma,,Not Retired,Female,1.0,A
+584,Florida,44.0,41.0,,Single,21.0,Graduate,7.0,Not Retired,Male,1.0,A
+585,Florida,44.0,45.0,88.0,Married,19.0,,21.0,,,2.0,C
+586,California,26.0,41.0,19.0,Married,20.0,Diploma,0.0,Not Retired,,6.0,A
+587,,42.0,46.0,31.0,Married,9.0,Diploma,12.0,Not Retired,Female,3.0,A
+588,New York,41.0,47.0,90.0,Married,6.0,Under Graduate,19.0,Not Retired,,3.0,A
+589,California,31.0,24.0,14.0,Married,3.0,Diploma,0.0,Not Retired,Male,4.0,A
+590,,,63.0,341.0,,43.0,Under Graduate,30.0,Not Retired,,1.0,C
+591,California,12.0,23.0,24.0,Married,2.0,,0.0,Not Retired,Female,8.0,D
+592,New York,45.0,49.0,81.0,Married,27.0,Under Graduate,7.0,Not Retired,Female,4.0,C
+593,California,47.0,34.0,63.0,Married,4.0,Under Graduate,13.0,Not Retired,Female,4.0,A
+594,New York,23.0,22.0,,Married,1.0,Diploma,4.0,,Male,5.0,C
+595,Florida,39.0,,20.0,Single,4.0,Post Doctoral,3.0,Not Retired,Female,1.0,D
+596,New York,19.0,26.0,,Single,2.0,Graduate,0.0,Not Retired,Male,2.0,C
+597,California,13.0,54.0,121.0,Single,12.0,,23.0,Not Retired,Male,1.0,C
+598,New York,5.0,33.0,39.0,,6.0,Graduate,4.0,Not Retired,Male,3.0,D
+599,New York,11.0,19.0,21.0,Single,0.0,,0.0,Not Retired,Male,1.0,A
+600,Florida,4.0,32.0,53.0,Single,2.0,PHD,5.0,Not Retired,Male,1.0,A
+601,Florida,17.0,42.0,58.0,Single,,Diploma,23.0,Not Retired,Male,1.0,B
+602,,,27.0,39.0,Single,3.0,Graduate,2.0,Not Retired,Male,1.0,A
+603,,19.0,65.0,108.0,Single,3.0,Diploma,33.0,Not Retired,Male,3.0,C
+604,New York,32.0,34.0,,Married,0.0,Diploma,10.0,Not Retired,Male,4.0,B
+605,New York,53.0,51.0,,Single,,,0.0,Not Retired,Male,1.0,B
+606,,51.0,38.0,51.0,Single,19.0,Diploma,18.0,Not Retired,Female,1.0,C
+607,California,35.0,34.0,,Single,7.0,PHD,10.0,Not Retired,,1.0,A
+608,California,3.0,31.0,23.0,Married,4.0,PHD,4.0,Not Retired,Male,5.0,D
+609,,22.0,48.0,88.0,Single,,PHD,12.0,Not Retired,Male,1.0,A
+610,Florida,17.0,21.0,25.0,Married,0.0,Under Graduate,1.0,Not Retired,Female,3.0,C
+611,New York,68.0,39.0,73.0,Single,20.0,Under Graduate,16.0,Not Retired,,,B
+612,New York,27.0,41.0,62.0,Married,7.0,PHD,15.0,,Female,2.0,C
+613,Florida,68.0,52.0,456.0,Married,8.0,Graduate,30.0,Not Retired,Female,4.0,C
+614,,56.0,42.0,24.0,,10.0,Under Graduate,5.0,Not Retired,Male,2.0,C
+615,Florida,11.0,32.0,23.0,Single,8.0,Under Graduate,0.0,Not Retired,Female,1.0,A
+616,,5.0,47.0,46.0,Single,,Diploma,6.0,Not Retired,Female,1.0,A
+617,Florida,16.0,50.0,263.0,,5.0,Under Graduate,29.0,Not Retired,Female,,C
+618,New York,59.0,30.0,34.0,Single,2.0,PHD,2.0,Not Retired,Female,1.0,B
+619,California,60.0,64.0,33.0,Single,14.0,Under Graduate,13.0,Retired,Male,,D
+620,Florida,55.0,47.0,37.0,,11.0,Diploma,11.0,Not Retired,Male,1.0,C
+621,,18.0,56.0,296.0,Single,,Under Graduate,25.0,Not Retired,Male,1.0,A
+622,,16.0,22.0,26.0,Single,0.0,Graduate,0.0,Not Retired,Female,3.0,B
+623,California,35.0,57.0,47.0,Married,32.0,PHD,12.0,Not Retired,Male,2.0,B
+624,Florida,,23.0,31.0,,1.0,Graduate,1.0,Not Retired,Female,2.0,D
+625,New York,,49.0,264.0,Married,5.0,Under Graduate,29.0,Not Retired,Female,2.0,A
+626,New York,16.0,27.0,41.0,Single,5.0,PHD,2.0,Not Retired,,1.0,D
+627,,69.0,48.0,,Married,27.0,Under Graduate,4.0,Not Retired,Male,2.0,C
+628,Florida,69.0,66.0,49.0,Married,31.0,Under Graduate,15.0,Not Retired,Male,2.0,A
+629,New York,27.0,24.0,26.0,Married,3.0,Diploma,7.0,Not Retired,Female,4.0,A
+630,,48.0,,110.0,Single,20.0,PHD,9.0,Not Retired,Male,1.0,C
+631,California,18.0,52.0,66.0,Married,20.0,Diploma,19.0,Not Retired,Female,2.0,A
+632,New York,24.0,40.0,39.0,Married,4.0,Graduate,5.0,Not Retired,Female,2.0,C
+633,New York,17.0,42.0,,Single,6.0,Under Graduate,2.0,Not Retired,Male,1.0,D
+634,New York,9.0,24.0,26.0,Married,3.0,PHD,1.0,Not Retired,,3.0,A
+635,,15.0,46.0,232.0,,5.0,PHD,15.0,Not Retired,Female,2.0,D
+636,California,62.0,37.0,43.0,,10.0,PHD,1.0,Not Retired,Female,3.0,B
+637,California,9.0,41.0,39.0,Single,12.0,PHD,3.0,Not Retired,Male,1.0,A
+638,New York,71.0,41.0,73.0,,10.0,Under Graduate,23.0,Not Retired,Female,2.0,C
+639,New York,62.0,59.0,74.0,Married,37.0,Diploma,20.0,,,,C
+640,New York,,38.0,,Single,19.0,PHD,13.0,Not Retired,Male,1.0,D
+641,California,19.0,33.0,22.0,Married,11.0,Diploma,3.0,Not Retired,Male,5.0,C
+642,New York,,,,Married,28.0,Diploma,8.0,Not Retired,Male,2.0,C
+643,Florida,3.0,,9.0,Single,3.0,Under Graduate,6.0,Retired,Male,1.0,A
+644,California,33.0,36.0,41.0,Single,2.0,Post Doctoral,,,Male,1.0,A
+645,,38.0,44.0,50.0,Single,1.0,PHD,7.0,Not Retired,Female,1.0,B
+646,Florida,42.0,48.0,27.0,,14.0,,,Not Retired,Female,,D
+647,California,11.0,,53.0,Single,2.0,Graduate,3.0,Not Retired,Male,,D
+648,,27.0,,,Married,0.0,Graduate,0.0,,Male,2.0,C
+649,Florida,23.0,50.0,151.0,Single,1.0,PHD,8.0,Not Retired,Female,1.0,A
+650,New York,4.0,38.0,54.0,Married,13.0,Under Graduate,,Not Retired,Male,2.0,C
+651,Florida,36.0,42.0,31.0,Single,,Diploma,4.0,Not Retired,Female,,A
+652,,37.0,42.0,115.0,Single,10.0,Diploma,22.0,Not Retired,Female,1.0,C
+653,Florida,24.0,58.0,24.0,Married,,Diploma,5.0,Not Retired,Male,2.0,A
+654,Florida,4.0,24.0,17.0,Single,1.0,Under Graduate,2.0,Not Retired,Male,,A
+655,Florida,54.0,33.0,47.0,Single,,Under Graduate,13.0,Not Retired,Female,2.0,C
+656,Florida,7.0,49.0,36.0,Single,,Diploma,0.0,Not Retired,Female,1.0,C
+657,California,10.0,28.0,75.0,,9.0,PHD,1.0,Not Retired,Male,1.0,D
+658,Florida,24.0,35.0,41.0,Married,10.0,Post Doctoral,6.0,Not Retired,Female,2.0,B
+659,Florida,12.0,31.0,18.0,Single,8.0,PHD,4.0,Not Retired,,1.0,A
+660,New York,45.0,54.0,171.0,Single,25.0,Graduate,33.0,Not Retired,Female,1.0,C
+661,Florida,59.0,55.0,42.0,Married,29.0,Graduate,21.0,Not Retired,Female,2.0,B
+662,California,3.0,21.0,36.0,Married,1.0,Graduate,0.0,Not Retired,Female,4.0,A
+663,Florida,8.0,35.0,31.0,Single,6.0,Post Doctoral,7.0,,Male,1.0,D
+664,California,,59.0,207.0,Single,5.0,Under Graduate,37.0,Not Retired,,2.0,D
+665,Florida,32.0,33.0,,,1.0,,12.0,Not Retired,Female,1.0,A
+666,,8.0,49.0,134.0,Single,14.0,PHD,9.0,Not Retired,Female,1.0,D
+667,California,9.0,28.0,28.0,Married,8.0,Graduate,4.0,Not Retired,Male,3.0,B
+668,New York,12.0,19.0,15.0,Married,0.0,Under Graduate,0.0,Not Retired,Female,4.0,B
+669,New York,24.0,43.0,48.0,Married,15.0,PHD,4.0,Not Retired,Male,6.0,D
+670,Florida,72.0,75.0,14.0,Single,48.0,,,Retired,Female,1.0,B
+671,Florida,58.0,61.0,101.0,Single,42.0,PHD,18.0,Not Retired,Female,1.0,B
+672,California,70.0,,87.0,Married,,Under Graduate,18.0,Not Retired,Male,3.0,C
+673,Florida,9.0,25.0,27.0,Single,,,4.0,Not Retired,Female,,A
+674,,49.0,25.0,27.0,Single,1.0,Post Doctoral,0.0,Not Retired,Female,1.0,B
+675,,52.0,54.0,59.0,Single,7.0,Graduate,22.0,Not Retired,Male,1.0,C
+676,,10.0,42.0,294.0,Married,10.0,PHD,9.0,Not Retired,Female,6.0,D
+677,California,14.0,52.0,44.0,Married,2.0,Graduate,5.0,Not Retired,Male,2.0,C
+678,California,19.0,27.0,,Married,3.0,Under Graduate,4.0,Not Retired,Male,6.0,D
+679,Florida,12.0,36.0,205.0,,4.0,PHD,10.0,Not Retired,Female,4.0,B
+680,California,65.0,59.0,732.0,Single,27.0,Graduate,31.0,Not Retired,Female,1.0,B
+681,California,67.0,40.0,,Married,14.0,Graduate,11.0,Not Retired,Male,2.0,C
+682,New York,29.0,24.0,23.0,Married,3.0,Diploma,7.0,Not Retired,Male,,C
+683,Florida,55.0,46.0,87.0,Single,8.0,Under Graduate,,Not Retired,Female,1.0,A
+684,Florida,71.0,67.0,110.0,Married,25.0,Diploma,23.0,Not Retired,Female,2.0,C
+685,Florida,5.0,44.0,83.0,Married,2.0,,14.0,Not Retired,Female,3.0,C
+686,Florida,60.0,58.0,63.0,Single,0.0,PHD,21.0,Not Retired,Female,3.0,B
+687,,10.0,40.0,22.0,Single,6.0,Graduate,,Not Retired,Female,1.0,A
+688,Florida,52.0,64.0,43.0,Single,44.0,Graduate,7.0,Not Retired,Male,1.0,D
+689,New York,61.0,43.0,35.0,Married,22.0,Under Graduate,11.0,Not Retired,Male,3.0,B
+690,California,61.0,29.0,48.0,,5.0,Under Graduate,11.0,Not Retired,Male,4.0,B
+691,New York,67.0,47.0,69.0,Married,19.0,,12.0,Not Retired,Male,3.0,C
+692,Florida,41.0,,,Married,12.0,PHD,5.0,Not Retired,Male,,B
+693,California,,,20.0,,1.0,Diploma,8.0,Not Retired,Female,1.0,A
+694,,24.0,46.0,43.0,Single,12.0,Under Graduate,6.0,Not Retired,Male,,D
+695,California,72.0,75.0,,Single,37.0,,44.0,Retired,Female,1.0,B
+696,New York,17.0,35.0,66.0,Single,7.0,Under Graduate,11.0,Not Retired,Male,1.0,D
+697,New York,65.0,,12.0,Single,46.0,Under Graduate,0.0,Retired,Male,1.0,C
+698,California,15.0,30.0,90.0,Married,8.0,Under Graduate,11.0,,Male,5.0,D
+699,California,34.0,33.0,35.0,Single,8.0,Graduate,2.0,,Female,,B
+700,California,,,51.0,Single,23.0,Post Doctoral,,Not Retired,Female,1.0,B
+701,,36.0,45.0,117.0,Single,22.0,,15.0,Not Retired,Female,1.0,B
+702,California,60.0,48.0,100.0,Single,29.0,Under Graduate,26.0,Not Retired,Female,1.0,C
+703,California,16.0,54.0,147.0,Single,20.0,,29.0,,Male,4.0,C
+704,New York,1.0,33.0,53.0,Single,5.0,PHD,6.0,Not Retired,Female,1.0,A
+705,Florida,56.0,30.0,57.0,Married,9.0,Post Doctoral,2.0,Not Retired,Male,4.0,B
+706,New York,6.0,50.0,37.0,Single,5.0,Under Graduate,,Not Retired,Male,1.0,B
+707,,,34.0,,Single,7.0,Graduate,2.0,Not Retired,Female,,B
+708,New York,34.0,36.0,50.0,,,,4.0,Not Retired,Male,2.0,C
+709,,,,55.0,Married,0.0,PHD,2.0,Not Retired,Male,5.0,D
+710,Florida,38.0,31.0,42.0,Married,2.0,Under Graduate,7.0,Not Retired,Female,4.0,D
+711,New York,,55.0,37.0,Single,15.0,Diploma,,Not Retired,Female,1.0,A
+712,California,47.0,69.0,228.0,Married,17.0,Graduate,39.0,Not Retired,Female,4.0,D
+713,California,72.0,62.0,163.0,Married,35.0,Post Doctoral,31.0,Not Retired,Male,2.0,D
+714,New York,6.0,35.0,28.0,Married,6.0,PHD,3.0,Not Retired,Female,3.0,D
+715,California,,51.0,,,9.0,Post Doctoral,21.0,Not Retired,Female,2.0,A
+716,California,65.0,,115.0,Married,9.0,Under Graduate,39.0,Retired,Female,2.0,D
+717,,22.0,44.0,37.0,Married,19.0,PHD,1.0,Not Retired,,2.0,C
+718,California,60.0,53.0,93.0,Single,32.0,Diploma,28.0,Not Retired,,1.0,C
+719,,19.0,32.0,,Single,12.0,,5.0,Not Retired,Female,1.0,D
+720,Florida,18.0,25.0,26.0,Single,4.0,Under Graduate,,Not Retired,,3.0,A
+721,California,9.0,37.0,14.0,Married,10.0,PHD,5.0,Not Retired,Female,6.0,A
+722,California,1.0,34.0,,Married,6.0,Diploma,0.0,Not Retired,Female,2.0,A
+723,Florida,10.0,28.0,36.0,Married,2.0,PHD,0.0,Not Retired,,3.0,D
+724,Florida,45.0,34.0,43.0,Married,14.0,PHD,0.0,Not Retired,Male,4.0,B
+725,California,25.0,28.0,41.0,Married,6.0,PHD,4.0,Not Retired,Female,4.0,C
+726,Florida,,39.0,,Single,1.0,Under Graduate,15.0,Not Retired,Female,1.0,B
+727,,27.0,67.0,,Single,1.0,PHD,19.0,Retired,Female,,C
+728,California,19.0,41.0,53.0,Single,5.0,PHD,6.0,Not Retired,Male,1.0,A
+729,New York,17.0,41.0,28.0,Married,,PHD,3.0,Not Retired,Male,6.0,A
+730,New York,16.0,36.0,58.0,Single,13.0,,4.0,Not Retired,,1.0,A
+731,California,8.0,42.0,129.0,Married,2.0,PHD,,Not Retired,Female,3.0,A
+732,California,3.0,25.0,65.0,Single,0.0,PHD,0.0,Not Retired,Female,1.0,D
+733,Florida,59.0,57.0,311.0,Single,26.0,Graduate,36.0,Not Retired,Female,1.0,A
+734,New York,,37.0,57.0,Single,,Graduate,14.0,Not Retired,Female,1.0,B
+735,,66.0,,47.0,Single,31.0,Under Graduate,4.0,Not Retired,Female,1.0,B
+736,Florida,28.0,50.0,25.0,Married,7.0,Diploma,3.0,Not Retired,Male,2.0,A
+737,California,,,46.0,Married,11.0,Post Doctoral,11.0,Not Retired,Male,3.0,A
+738,Florida,39.0,34.0,51.0,Married,10.0,Graduate,13.0,Not Retired,Female,4.0,D
+739,Florida,38.0,33.0,19.0,Single,4.0,Under Graduate,5.0,Not Retired,,2.0,C
+740,Florida,34.0,29.0,26.0,Single,5.0,Graduate,,Not Retired,Female,2.0,B
+741,Florida,,57.0,72.0,Married,18.0,,30.0,Retired,Male,,D
+742,Florida,72.0,65.0,71.0,Married,33.0,Diploma,41.0,Retired,Female,4.0,C
+743,California,42.0,42.0,,,9.0,Under Graduate,13.0,Not Retired,Male,8.0,C
+744,Florida,32.0,37.0,44.0,Single,9.0,Under Graduate,7.0,Not Retired,Male,,A
+745,Florida,48.0,50.0,208.0,Married,4.0,,19.0,Not Retired,Female,2.0,D
+746,Florida,63.0,37.0,45.0,Married,1.0,,9.0,Not Retired,Female,,B
+747,Florida,,27.0,39.0,Married,3.0,Graduate,2.0,Not Retired,Male,4.0,B
+748,New York,68.0,42.0,89.0,Single,,PHD,12.0,Not Retired,,1.0,B
+749,California,6.0,29.0,19.0,Married,4.0,Under Graduate,5.0,Not Retired,Female,2.0,A
+750,California,68.0,57.0,15.0,Married,,Under Graduate,0.0,Not Retired,Female,2.0,D
+751,Florida,,68.0,59.0,Married,26.0,Under Graduate,36.0,,,2.0,D
+752,Florida,53.0,38.0,,Married,15.0,Graduate,6.0,Not Retired,Female,4.0,B
+753,Florida,20.0,51.0,27.0,Married,11.0,,6.0,Not Retired,,3.0,C
+754,,70.0,35.0,48.0,,4.0,Under Graduate,9.0,Not Retired,Male,3.0,B
+755,Florida,32.0,47.0,135.0,Single,25.0,Under Graduate,6.0,Not Retired,Female,,A
+756,New York,61.0,52.0,19.0,Married,23.0,Diploma,,Not Retired,Male,,C
+757,,,25.0,28.0,,3.0,PHD,0.0,Not Retired,Male,3.0,B
+758,New York,56.0,,12.0,Married,14.0,Diploma,16.0,Retired,,2.0,A
+759,Florida,54.0,59.0,,Single,28.0,Under Graduate,15.0,Not Retired,Male,1.0,B
+760,Florida,43.0,38.0,18.0,Married,7.0,Graduate,8.0,Not Retired,Female,3.0,D
+761,California,19.0,35.0,58.0,Single,7.0,Graduate,5.0,Not Retired,,1.0,D
+762,Florida,5.0,43.0,,,16.0,Graduate,17.0,Not Retired,Female,1.0,C
+763,California,24.0,61.0,112.0,Married,6.0,PHD,3.0,Not Retired,Female,4.0,A
+764,Florida,62.0,,28.0,Married,2.0,Under Graduate,8.0,Not Retired,,2.0,B
+765,New York,,40.0,398.0,Single,13.0,Post Doctoral,11.0,Not Retired,Female,1.0,D
+766,Florida,60.0,48.0,106.0,Married,22.0,Graduate,21.0,Not Retired,Female,3.0,D
+767,New York,30.0,74.0,10.0,Married,12.0,Diploma,,Retired,Female,2.0,C
+768,California,40.0,42.0,108.0,Married,16.0,Graduate,17.0,Not Retired,Male,4.0,B
+769,New York,42.0,50.0,85.0,Married,,Under Graduate,,Not Retired,Female,4.0,A
+770,,20.0,34.0,51.0,Single,14.0,Graduate,9.0,Not Retired,Female,1.0,B
+771,California,4.0,22.0,22.0,Married,1.0,Under Graduate,2.0,Not Retired,Female,3.0,C
+772,New York,44.0,,66.0,Married,2.0,Under Graduate,8.0,Not Retired,,,D
+773,Florida,49.0,63.0,10.0,Single,18.0,Under Graduate,2.0,Retired,Male,1.0,C
+774,Florida,5.0,36.0,34.0,Married,2.0,Diploma,4.0,Not Retired,Female,2.0,C
+775,Florida,70.0,50.0,,Married,29.0,Diploma,22.0,Not Retired,Male,4.0,B
+776,,30.0,57.0,19.0,Married,16.0,Diploma,,Not Retired,Male,,A
+777,New York,28.0,48.0,128.0,,20.0,PHD,4.0,Not Retired,Female,1.0,D
+778,California,5.0,28.0,39.0,Married,3.0,Post Doctoral,1.0,Not Retired,Male,6.0,D
+779,New York,,35.0,,Single,12.0,Diploma,3.0,Not Retired,Female,1.0,D
+780,New York,,,45.0,Single,12.0,PHD,10.0,Not Retired,Female,1.0,A
+781,California,,37.0,25.0,Married,8.0,,1.0,,Female,5.0,A
+782,California,30.0,23.0,24.0,Married,0.0,Under Graduate,,Not Retired,Female,4.0,C
+783,,71.0,40.0,53.0,Married,19.0,PHD,,Not Retired,Female,2.0,D
+784,Florida,,77.0,49.0,Single,55.0,Diploma,45.0,Retired,Female,1.0,A
+785,Florida,24.0,48.0,38.0,Married,3.0,Diploma,,Not Retired,Female,2.0,A
+786,California,,54.0,84.0,Married,7.0,Graduate,10.0,Not Retired,,2.0,A
+787,New York,59.0,54.0,126.0,Single,32.0,Diploma,22.0,Not Retired,Female,1.0,C
+788,Florida,59.0,32.0,73.0,Single,9.0,PHD,5.0,Not Retired,Male,1.0,B
+789,Florida,44.0,37.0,41.0,Married,1.0,PHD,8.0,Not Retired,,6.0,B
+790,California,19.0,31.0,22.0,Married,0.0,PHD,2.0,Not Retired,,3.0,B
+791,New York,58.0,46.0,,Married,23.0,Diploma,2.0,Not Retired,Female,2.0,A
+792,California,41.0,,94.0,Married,22.0,Under Graduate,25.0,Not Retired,Male,2.0,B
+793,New York,16.0,33.0,30.0,Single,,,7.0,Not Retired,Male,4.0,C
+794,,13.0,36.0,31.0,Single,11.0,Under Graduate,,,Male,1.0,A
+795,California,60.0,,171.0,Single,22.0,Diploma,37.0,Not Retired,Female,1.0,C
+796,New York,72.0,49.0,102.0,Married,23.0,Diploma,27.0,,Female,6.0,B
+797,New York,33.0,39.0,27.0,Single,17.0,PHD,,,Female,1.0,D
+798,New York,72.0,45.0,98.0,Married,25.0,PHD,20.0,Not Retired,Female,2.0,D
+799,California,66.0,54.0,591.0,Married,8.0,PHD,25.0,Not Retired,Female,2.0,D
+800,Florida,53.0,37.0,,Married,7.0,Diploma,,Not Retired,Female,6.0,C
+801,New York,22.0,28.0,36.0,Married,0.0,PHD,0.0,Not Retired,Male,4.0,D
+802,New York,14.0,26.0,25.0,Married,1.0,Under Graduate,,Not Retired,Female,3.0,C
+803,California,52.0,49.0,69.0,Single,18.0,Under Graduate,13.0,Not Retired,Female,2.0,C
+804,Florida,33.0,30.0,22.0,,5.0,Diploma,,Not Retired,Male,2.0,C
+805,Florida,72.0,66.0,67.0,Single,26.0,,37.0,Retired,Female,1.0,C
+806,,40.0,40.0,73.0,Married,3.0,PHD,,Not Retired,Female,4.0,C
+807,New York,29.0,26.0,,Single,1.0,PHD,2.0,Not Retired,Female,1.0,D
+808,Florida,63.0,67.0,9.0,Single,22.0,,12.0,Retired,Male,1.0,C
+809,New York,56.0,54.0,147.0,Single,25.0,Graduate,31.0,Not Retired,Female,1.0,B
+810,Florida,60.0,50.0,239.0,Married,26.0,Under Graduate,19.0,,Female,2.0,D
+811,Florida,28.0,22.0,23.0,,3.0,Graduate,1.0,Not Retired,Male,5.0,A
+812,New York,39.0,39.0,29.0,Single,19.0,PHD,6.0,Not Retired,Male,1.0,B
+813,Florida,65.0,39.0,32.0,Married,18.0,Under Graduate,15.0,Not Retired,Male,4.0,C
+814,Florida,29.0,31.0,30.0,Single,7.0,,7.0,Not Retired,Female,1.0,C
+815,Florida,28.0,36.0,57.0,Single,8.0,Under Graduate,13.0,Not Retired,Female,2.0,C
+816,California,2.0,18.0,20.0,Single,0.0,Under Graduate,0.0,Not Retired,Male,1.0,C
+817,Florida,67.0,,248.0,Single,13.0,Under Graduate,20.0,Not Retired,Female,,C
+818,Florida,5.0,35.0,,Married,9.0,Graduate,8.0,Not Retired,,5.0,D
+819,Florida,48.0,35.0,24.0,Single,10.0,Under Graduate,6.0,,Male,1.0,C
+820,New York,10.0,26.0,25.0,Married,4.0,Diploma,4.0,Not Retired,Female,3.0,A
+821,New York,17.0,,37.0,,3.0,Graduate,2.0,,Female,1.0,C
+822,California,21.0,24.0,30.0,Married,0.0,PHD,0.0,,Female,5.0,D
+823,New York,25.0,51.0,66.0,Single,9.0,PHD,13.0,Not Retired,Male,2.0,D
+824,Florida,44.0,31.0,16.0,Single,8.0,Diploma,3.0,Not Retired,Male,,A
+825,New York,59.0,49.0,429.0,Single,28.0,PHD,23.0,Not Retired,,2.0,D
+826,New York,11.0,26.0,20.0,Single,,Under Graduate,,Not Retired,Male,1.0,A
+827,New York,50.0,68.0,262.0,Married,32.0,Graduate,28.0,Not Retired,Male,2.0,C
+828,Florida,23.0,25.0,28.0,Married,2.0,Graduate,1.0,Not Retired,Female,5.0,B
+829,California,17.0,19.0,18.0,Single,,Under Graduate,0.0,Not Retired,Female,2.0,B
+830,California,15.0,62.0,144.0,Married,3.0,Graduate,21.0,Not Retired,Male,2.0,C
+831,New York,68.0,57.0,33.0,Married,38.0,Diploma,,Not Retired,Female,2.0,B
+832,California,,,19.0,Married,23.0,Graduate,0.0,Not Retired,Female,2.0,A
+833,California,30.0,24.0,30.0,Married,3.0,Diploma,7.0,Not Retired,Female,5.0,A
+834,Florida,22.0,30.0,41.0,Single,8.0,Under Graduate,8.0,Not Retired,Male,1.0,C
+835,New York,10.0,20.0,20.0,Married,1.0,Under Graduate,0.0,Not Retired,Female,4.0,A
+836,California,72.0,59.0,65.0,Married,12.0,Graduate,21.0,Not Retired,Female,6.0,B
+837,New York,,24.0,17.0,Married,5.0,PHD,0.0,Not Retired,Female,2.0,C
+838,New York,43.0,,66.0,Married,18.0,Diploma,22.0,Not Retired,Male,,C
+839,Florida,31.0,37.0,18.0,Married,15.0,PHD,5.0,Not Retired,Male,3.0,D
+840,New York,6.0,27.0,26.0,Married,5.0,PHD,2.0,Not Retired,Male,5.0,A
+841,New York,48.0,42.0,46.0,,21.0,PHD,4.0,,Male,1.0,C
+842,New York,50.0,25.0,19.0,Single,6.0,Diploma,5.0,Not Retired,Male,3.0,A
+843,Florida,20.0,41.0,58.0,Married,19.0,Under Graduate,6.0,,,,B
+844,Florida,61.0,73.0,25.0,Single,,Diploma,21.0,Retired,Male,1.0,A
+845,New York,6.0,21.0,15.0,Single,,Under Graduate,1.0,Not Retired,Female,1.0,A
+846,New York,1.0,22.0,35.0,Single,2.0,Under Graduate,2.0,Not Retired,Male,1.0,A
+847,California,21.0,43.0,41.0,Single,13.0,Under Graduate,1.0,Not Retired,Female,1.0,D
+848,Florida,7.0,32.0,71.0,,1.0,PHD,3.0,Not Retired,Male,2.0,D
+849,Florida,65.0,,,Married,,Graduate,34.0,Not Retired,Female,2.0,D
+850,California,64.0,37.0,44.0,Single,10.0,PHD,9.0,Not Retired,Female,1.0,B
+851,,,30.0,41.0,Single,0.0,,0.0,Not Retired,Male,2.0,C
+852,,67.0,45.0,83.0,Married,22.0,Graduate,11.0,Not Retired,Female,2.0,B
+853,New York,22.0,35.0,28.0,Single,12.0,Under Graduate,3.0,,Male,2.0,B
+854,Florida,51.0,37.0,101.0,Married,17.0,Under Graduate,10.0,Not Retired,,2.0,C
+855,California,50.0,28.0,28.0,Single,6.0,Diploma,10.0,Not Retired,Female,1.0,C
+856,California,31.0,47.0,35.0,Married,18.0,Under Graduate,0.0,Not Retired,Male,2.0,A
+857,Florida,4.0,28.0,39.0,,0.0,Under Graduate,3.0,Not Retired,Female,1.0,C
+858,Florida,60.0,,51.0,Single,19.0,PHD,11.0,Not Retired,Male,,D
+859,Florida,,31.0,31.0,Married,12.0,Under Graduate,7.0,Not Retired,Female,6.0,A
+860,Florida,20.0,,209.0,Single,2.0,PHD,15.0,Not Retired,Female,,B
+861,New York,19.0,23.0,37.0,Married,4.0,Graduate,1.0,Not Retired,Female,4.0,C
+862,Florida,58.0,37.0,64.0,Married,5.0,PHD,8.0,Not Retired,Female,2.0,D
+863,Florida,65.0,64.0,88.0,Single,20.0,Graduate,26.0,Not Retired,Female,1.0,D
+864,Florida,72.0,61.0,,Married,34.0,Diploma,8.0,Not Retired,Male,3.0,B
+865,Florida,8.0,42.0,66.0,Single,3.0,Graduate,10.0,Not Retired,,,D
+866,New York,33.0,40.0,19.0,Married,,Graduate,,Not Retired,,2.0,A
+867,Florida,18.0,34.0,42.0,Married,4.0,Under Graduate,14.0,Not Retired,Female,5.0,D
+868,New York,24.0,31.0,41.0,Married,,Under Graduate,13.0,Not Retired,Male,5.0,C
+869,,70.0,36.0,50.0,Single,,Diploma,15.0,Not Retired,Female,,B
+870,California,7.0,38.0,70.0,Single,4.0,PHD,4.0,Not Retired,Male,1.0,D
+871,Florida,70.0,59.0,85.0,Single,27.0,Diploma,19.0,,Female,1.0,C
+872,New York,20.0,48.0,45.0,Married,21.0,Graduate,2.0,Not Retired,Female,2.0,C
+873,Florida,54.0,32.0,27.0,Married,12.0,Diploma,9.0,Not Retired,Male,,B
+874,Florida,36.0,48.0,29.0,Single,28.0,Diploma,2.0,Not Retired,Male,1.0,A
+875,Florida,71.0,53.0,48.0,Married,29.0,PHD,0.0,Not Retired,Female,2.0,C
+876,,17.0,41.0,32.0,Single,4.0,,3.0,Not Retired,Male,1.0,C
+877,California,,,43.0,Married,17.0,Diploma,9.0,Not Retired,Male,3.0,C
+878,California,16.0,27.0,16.0,,8.0,Post Doctoral,0.0,Not Retired,Female,1.0,D
+879,Florida,38.0,30.0,22.0,Married,6.0,Under Graduate,,Not Retired,Female,2.0,B
+880,California,52.0,45.0,40.0,Married,19.0,Graduate,9.0,Not Retired,Female,3.0,D
+881,California,46.0,48.0,256.0,,12.0,Graduate,25.0,Not Retired,Male,6.0,D
+882,New York,31.0,46.0,144.0,Single,23.0,PHD,13.0,Not Retired,Male,1.0,C
+883,New York,23.0,31.0,,Single,10.0,PHD,0.0,Not Retired,Male,2.0,B
+884,New York,38.0,56.0,34.0,,34.0,Under Graduate,0.0,Not Retired,Female,3.0,C
+885,New York,50.0,54.0,248.0,,15.0,Graduate,28.0,Not Retired,Female,,C
+886,New York,16.0,49.0,41.0,Single,17.0,,5.0,Not Retired,,1.0,D
+887,New York,14.0,34.0,27.0,Married,,,1.0,Not Retired,,2.0,D
+888,New York,30.0,52.0,17.0,Single,23.0,Graduate,3.0,Not Retired,Female,1.0,B
+889,Florida,22.0,47.0,44.0,Married,0.0,PHD,11.0,Not Retired,,3.0,D
+890,California,,55.0,135.0,Married,12.0,Under Graduate,24.0,Not Retired,Male,4.0,D
+891,Florida,59.0,,41.0,Married,3.0,PHD,,Not Retired,Female,3.0,B
+892,New York,54.0,55.0,587.0,Single,1.0,Graduate,33.0,Not Retired,Male,1.0,C
+893,Florida,9.0,40.0,38.0,Single,13.0,PHD,7.0,Not Retired,Female,1.0,D
+894,California,67.0,,49.0,Married,38.0,Under Graduate,10.0,Not Retired,Female,2.0,B
+895,New York,24.0,,33.0,Single,19.0,Graduate,0.0,Not Retired,Female,2.0,A
+896,New York,12.0,55.0,,Married,13.0,Diploma,5.0,Not Retired,Female,2.0,B
+897,California,26.0,47.0,,,13.0,Graduate,0.0,Not Retired,Male,1.0,B
+898,New York,3.0,32.0,58.0,Single,4.0,Under Graduate,11.0,Not Retired,Male,4.0,D
+899,New York,20.0,46.0,23.0,Single,2.0,Post Doctoral,4.0,Not Retired,,2.0,D
+900,Florida,,52.0,97.0,Married,0.0,Post Doctoral,9.0,Not Retired,Male,2.0,D
+901,,58.0,53.0,207.0,,19.0,Graduate,12.0,Not Retired,Female,1.0,D
+902,California,54.0,28.0,21.0,Married,,Graduate,3.0,,Male,4.0,A
+903,New York,52.0,39.0,119.0,Single,6.0,Graduate,18.0,Not Retired,,1.0,A
+904,,38.0,30.0,25.0,Married,,Diploma,5.0,Not Retired,Female,4.0,A
+905,New York,19.0,46.0,59.0,Single,,Graduate,17.0,Not Retired,Male,1.0,A
+906,New York,22.0,33.0,24.0,Married,2.0,Diploma,3.0,Not Retired,Male,4.0,A
+907,California,49.0,35.0,113.0,Married,15.0,PHD,4.0,Not Retired,Male,5.0,B
+908,Florida,5.0,39.0,22.0,Single,0.0,Diploma,0.0,Not Retired,Female,2.0,C
+909,New York,18.0,,,Single,28.0,Diploma,17.0,Retired,Male,1.0,A
+910,Florida,43.0,29.0,33.0,Single,4.0,Diploma,13.0,Not Retired,Female,,C
+911,Florida,17.0,50.0,205.0,Single,,Post Doctoral,19.0,Not Retired,Male,1.0,D
+912,New York,37.0,,41.0,,4.0,Graduate,8.0,,Female,3.0,B
+913,New York,8.0,39.0,39.0,Single,0.0,Diploma,7.0,Not Retired,Female,1.0,A
+914,,51.0,46.0,107.0,Married,8.0,Under Graduate,21.0,Not Retired,Female,6.0,C
+915,California,71.0,55.0,198.0,Married,11.0,Diploma,31.0,Not Retired,Female,3.0,C
+916,California,56.0,53.0,100.0,Married,23.0,,14.0,Not Retired,Female,2.0,B
+917,Florida,70.0,68.0,1131.0,Single,21.0,,45.0,,Male,1.0,C
+918,California,62.0,53.0,360.0,Single,14.0,Graduate,26.0,,Female,2.0,C
+919,California,50.0,52.0,162.0,Married,22.0,Under Graduate,27.0,Not Retired,Female,2.0,D
+920,Florida,1.0,31.0,29.0,Single,3.0,Post Doctoral,2.0,Not Retired,Female,3.0,A
+921,,15.0,26.0,38.0,Single,1.0,PHD,1.0,Not Retired,Male,2.0,D
+922,Florida,,,82.0,Married,24.0,Graduate,25.0,,,2.0,B
+923,New York,,47.0,159.0,,10.0,Under Graduate,24.0,Not Retired,Male,4.0,C
+924,New York,32.0,44.0,201.0,Single,10.0,Under Graduate,24.0,Not Retired,,1.0,C
+925,California,19.0,25.0,27.0,Married,6.0,PHD,0.0,Not Retired,Female,2.0,C
+926,New York,42.0,54.0,,Single,19.0,Graduate,10.0,Not Retired,Female,,D
+927,Florida,51.0,49.0,45.0,Single,29.0,Diploma,16.0,Not Retired,Male,,A
+928,New York,32.0,22.0,17.0,,2.0,Under Graduate,2.0,Not Retired,Female,4.0,C
+929,Florida,26.0,55.0,61.0,Married,13.0,,26.0,Not Retired,Male,2.0,C
+930,New York,39.0,44.0,418.0,Married,14.0,PHD,18.0,Not Retired,Male,2.0,D
+931,New York,72.0,53.0,152.0,Single,12.0,Under Graduate,32.0,Not Retired,Female,,D
+932,New York,4.0,39.0,38.0,Single,11.0,PHD,1.0,Not Retired,,2.0,D
+933,New York,54.0,50.0,151.0,Married,5.0,PHD,20.0,Not Retired,Male,3.0,C
+934,,34.0,40.0,23.0,Married,21.0,PHD,9.0,Not Retired,Female,,D
+935,California,20.0,25.0,33.0,Married,4.0,PHD,0.0,Not Retired,Female,3.0,A
+936,Florida,14.0,49.0,26.0,Single,4.0,Diploma,8.0,Not Retired,Male,1.0,A
+937,California,61.0,59.0,89.0,Single,26.0,Diploma,40.0,Retired,Female,1.0,C
+938,New York,4.0,24.0,25.0,Single,2.0,PHD,0.0,,Male,1.0,A
+939,Florida,16.0,48.0,59.0,,25.0,,13.0,Not Retired,Male,2.0,C
+940,,13.0,41.0,55.0,Single,9.0,Under Graduate,12.0,Not Retired,Female,,A
+941,New York,53.0,37.0,25.0,Married,18.0,Graduate,6.0,Not Retired,Female,2.0,B
+942,New York,58.0,36.0,39.0,Married,13.0,Under Graduate,8.0,Not Retired,Female,7.0,D
+943,New York,25.0,38.0,56.0,Married,19.0,Diploma,19.0,Not Retired,,2.0,C
+944,,71.0,61.0,155.0,Married,19.0,Graduate,30.0,,,2.0,C
+945,California,22.0,,119.0,Married,13.0,Post Doctoral,0.0,Not Retired,Female,4.0,D
+946,California,46.0,,64.0,Married,15.0,Graduate,,,Male,,C
+947,Florida,66.0,50.0,333.0,Married,2.0,Post Doctoral,,,Male,2.0,B
+948,California,69.0,58.0,26.0,,29.0,Under Graduate,7.0,Not Retired,Female,,D
+949,New York,38.0,49.0,33.0,Married,3.0,PHD,11.0,Not Retired,Male,4.0,B
+950,,16.0,35.0,46.0,Single,7.0,Graduate,3.0,Not Retired,Male,1.0,A
+951,Florida,44.0,39.0,41.0,Married,8.0,Under Graduate,8.0,Not Retired,Male,,D
+952,California,50.0,50.0,31.0,Single,24.0,Diploma,8.0,Not Retired,Male,1.0,C
+953,Florida,10.0,23.0,29.0,Single,1.0,PHD,0.0,Not Retired,Female,1.0,D
+954,New York,7.0,41.0,94.0,Single,6.0,Under Graduate,,Not Retired,Male,1.0,D
+955,Florida,71.0,48.0,288.0,Single,25.0,,19.0,Not Retired,,1.0,A
+956,Florida,16.0,39.0,31.0,,5.0,Diploma,4.0,,Female,5.0,A
+957,Florida,6.0,20.0,25.0,Single,0.0,Under Graduate,0.0,Not Retired,,2.0,C
+958,New York,46.0,55.0,269.0,Single,24.0,Under Graduate,35.0,,Male,1.0,C
+959,Florida,51.0,49.0,203.0,Married,13.0,Graduate,27.0,Not Retired,Male,,C
+960,Florida,,34.0,22.0,Single,12.0,Under Graduate,2.0,Not Retired,Male,2.0,A
+961,New York,49.0,54.0,25.0,,23.0,Under Graduate,1.0,Not Retired,Female,4.0,A
+962,Florida,49.0,,,Married,14.0,Post Doctoral,16.0,Not Retired,Male,2.0,B
+963,California,,30.0,76.0,,,Graduate,7.0,Not Retired,Male,2.0,A
+964,Florida,22.0,39.0,55.0,Single,4.0,Under Graduate,17.0,,Female,1.0,D
+965,Florida,51.0,45.0,46.0,Married,4.0,Graduate,6.0,Not Retired,,2.0,D
+966,California,19.0,27.0,56.0,Married,7.0,PHD,1.0,Not Retired,Male,4.0,D
+967,California,9.0,36.0,79.0,Single,1.0,Graduate,11.0,Not Retired,Female,5.0,C
+968,Florida,15.0,25.0,51.0,Married,0.0,Graduate,,,Female,2.0,A
+969,,57.0,63.0,,Single,,Diploma,27.0,Not Retired,Male,,C
+970,Florida,48.0,45.0,41.0,Single,15.0,Diploma,10.0,Not Retired,Female,2.0,A
+971,New York,9.0,53.0,50.0,Married,20.0,Under Graduate,13.0,Not Retired,Female,2.0,A
+972,California,61.0,52.0,,,,Diploma,18.0,Not Retired,Male,1.0,C
+973,Florida,72.0,53.0,108.0,Single,34.0,Diploma,23.0,Not Retired,Male,1.0,C
+974,Florida,57.0,60.0,14.0,Single,20.0,Under Graduate,27.0,Retired,Female,1.0,C
+975,,57.0,51.0,46.0,,10.0,Diploma,13.0,Not Retired,Male,,B
+976,California,37.0,60.0,,Married,0.0,,20.0,Not Retired,Male,3.0,C
+977,Florida,45.0,51.0,,Single,13.0,PHD,16.0,Not Retired,Male,2.0,A
+978,Florida,,,36.0,Married,15.0,Diploma,11.0,Not Retired,Female,,A
+979,New York,55.0,44.0,83.0,Single,24.0,Diploma,23.0,Not Retired,Female,1.0,C
+980,New York,,27.0,17.0,Single,2.0,,3.0,Not Retired,Male,,B
+981,Florida,1.0,20.0,18.0,Single,1.0,Graduate,0.0,Not Retired,Male,1.0,A
+982,New York,34.0,23.0,24.0,Married,3.0,Diploma,7.0,,Female,4.0,C
+983,Florida,14.0,37.0,48.0,Married,5.0,Graduate,1.0,Not Retired,Female,4.0,A
+984,Florida,6.0,32.0,47.0,Single,,Diploma,10.0,Not Retired,Male,1.0,C
+985,Florida,24.0,30.0,25.0,Single,0.0,PHD,5.0,Not Retired,Male,2.0,D
+986,New York,3.0,26.0,59.0,Married,6.0,PHD,0.0,Not Retired,,3.0,D
+987,California,4.0,30.0,45.0,Single,1.0,PHD,6.0,Not Retired,Male,3.0,D
+988,California,72.0,40.0,163.0,Married,19.0,PHD,15.0,Not Retired,Male,2.0,B
+989,California,44.0,56.0,63.0,Single,4.0,,6.0,Not Retired,,1.0,C
+990,California,50.0,43.0,27.0,Single,6.0,Graduate,4.0,Not Retired,,1.0,C
+991,New York,61.0,50.0,190.0,Married,16.0,Under Graduate,22.0,Not Retired,Female,2.0,B
+992,California,34.0,52.0,106.0,Married,2.0,Under Graduate,19.0,Not Retired,Male,2.0,C
+993,Florida,26.0,54.0,26.0,Married,30.0,Graduate,1.0,Not Retired,Female,2.0,D
+994,California,15.0,46.0,63.0,Married,,Post Doctoral,1.0,Not Retired,Male,2.0,D
+995,Florida,10.0,39.0,27.0,Single,0.0,Graduate,0.0,Not Retired,Female,3.0,A
+996,California,7.0,,,,2.0,Post Doctoral,5.0,Not Retired,Female,1.0,A
+997,,67.0,59.0,944.0,,40.0,,,Not Retired,Female,1.0,D
+998,,70.0,,87.0,Single,18.0,Under Graduate,22.0,Not Retired,,1.0,C
+999,Florida,50.0,36.0,39.0,Married,7.0,Graduate,3.0,Not Retired,Female,3.0,B
